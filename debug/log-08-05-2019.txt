@@ -1,0 +1,432 @@
+ERROR - 08-05-2019 08:45:12 --> Severity: Error --> Call to undefined method Model::getJurnal() D:\Server5\htdocs\bsi\aplikasi\helpers\cici_helper.php 237
+ERROR - 08-05-2019 09:32:11 --> Severity: Error --> Call to undefined method Model::getJurnal() D:\Server5\htdocs\bsi\aplikasi\helpers\cici_helper.php 237
+ERROR - 08-05-2019 04:32:19 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 04:32:19 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 04:32:19 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 04:32:19 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 04:32:19 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 04:32:24 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 04:32:24 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 04:32:24 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 04:32:24 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 04:32:24 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 09:32:25 --> Severity: Error --> Call to undefined method Model::getJurnal() D:\Server5\htdocs\bsi\aplikasi\helpers\cici_helper.php 237
+ERROR - 08-05-2019 04:34:42 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 04:34:43 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 04:34:43 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 04:34:43 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 04:34:43 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 09:34:43 --> Severity: Error --> Call to undefined method Model::getJurnal() D:\Server5\htdocs\bsi\aplikasi\helpers\cici_helper.php 237
+ERROR - 08-05-2019 09:39:06 --> Severity: Error --> Call to undefined method Model::getJurnal() D:\Server5\htdocs\bsi\aplikasi\helpers\cici_helper.php 237
+ERROR - 08-05-2019 09:41:25 --> Severity: Error --> Call to undefined method Model::getJurnal() D:\Server5\htdocs\bsi\aplikasi\helpers\cici_helper.php 237
+ERROR - 08-05-2019 09:41:38 --> Severity: Error --> Call to undefined method Model::getJurnal() D:\Server5\htdocs\bsi\aplikasi\helpers\cici_helper.php 237
+ERROR - 08-05-2019 04:52:53 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 04:52:53 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 04:52:53 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 04:52:53 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 04:52:53 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 04:52:56 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 04:52:56 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 04:52:57 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 04:52:57 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 04:52:57 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 09:52:57 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ds.id as id_detailkaskeluar,
+								ds.id_akun as id_akun,
+								FROM jurnal ' at line 10 - Invalid query: 
+							SELECT 
+								j.*, 
+								d.*, 
+								a.akun as akun,
+								k.id as id_karyawan, 
+								k.nama as karyawan, 
+								s.nomor as nomorkaskeluar, 
+								s.memo as keterangankaskeluar, 
+								s.tanggal as tanggalkaskeluar 
+								ds.id as id_detailkaskeluar,
+								ds.id_akun as id_akun,
+								FROM jurnal j 
+								
+								INNER JOIN detail_jurnal d ON d.id_kaskeluar = j.id 
+								INNER JOIN kaskeluar s ON j.id_kaskeluar = s.id 
+								INNER JOIN karyawan k ON s.id_karyawan = k.id 
+								INNER JOIN detail_kaskeluar ds ON s.id = ds.id_kaskeluar
+
+								WHERE j.is_deleted IS NULL
+ERROR - 08-05-2019 04:53:27 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 04:53:27 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 04:53:28 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 04:53:28 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 04:53:28 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 09:53:28 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'z.id as id_detailkaskeluar,
+								z.id_akun as id_akun,
+								FROM jurnal j ' at line 10 - Invalid query: 
+							SELECT 
+								j.*, 
+								d.*, 
+								a.akun as akun,
+								k.id as id_karyawan, 
+								k.nama as karyawan, 
+								s.nomor as nomorkaskeluar, 
+								s.memo as keterangankaskeluar, 
+								s.tanggal as tanggalkaskeluar 
+								z.id as id_detailkaskeluar,
+								z.id_akun as id_akun,
+								FROM jurnal j 
+								
+								INNER JOIN detail_jurnal d ON d.id_kaskeluar = j.id 
+								INNER JOIN kaskeluar s ON j.id_kaskeluar = s.id 
+								INNER JOIN karyawan k ON s.id_karyawan = k.id 
+								INNER JOIN detail_kaskeluar z ON s.id = z.id_kaskeluar
+
+								WHERE j.is_deleted IS NULL
+ERROR - 08-05-2019 04:53:42 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 04:53:42 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 04:53:43 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 04:53:43 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 04:53:43 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 09:53:43 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'z.id as id_detailkaskeluar,
+								z.id_akun as id_akun
+
+								FROM jurnal j ' at line 10 - Invalid query: 
+							SELECT 
+								j.*, 
+								d.*, 
+								a.akun as akun,
+								k.id as id_karyawan, 
+								k.nama as karyawan, 
+								s.nomor as nomorkaskeluar, 
+								s.memo as keterangankaskeluar, 
+								s.tanggal as tanggalkaskeluar 
+								z.id as id_detailkaskeluar,
+								z.id_akun as id_akun
+
+								FROM jurnal j 
+								
+								INNER JOIN detail_jurnal d ON d.id_kaskeluar = j.id 
+								INNER JOIN kaskeluar s ON j.id_kaskeluar = s.id 
+								INNER JOIN karyawan k ON s.id_karyawan = k.id 
+								INNER JOIN detail_kaskeluar z ON s.id = z.id_kaskeluar
+
+								WHERE j.is_deleted IS NULL
+ERROR - 08-05-2019 04:54:19 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 04:54:20 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 04:54:20 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 04:54:20 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 04:54:20 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 09:54:20 --> Query error: Table 'bsi.detail_jurnal' doesn't exist - Invalid query: 
+							SELECT 
+								j.*, 
+								d.*, 
+								a.akun as akun,
+								k.id as id_karyawan, 
+								k.nama as karyawan, 
+								s.nomor as nomorkaskeluar, 
+								s.memo as keterangankaskeluar, 
+								s.tanggal as tanggalkaskeluar, 
+								ds.id as id_detailkaskeluar,
+								ds.id_akun as id_akun
+
+								FROM jurnal j 
+								
+								INNER JOIN detail_jurnal d ON d.id_kaskeluar = j.id 
+								INNER JOIN kaskeluar s ON j.id_kaskeluar = s.id 
+								INNER JOIN karyawan k ON s.id_karyawan = k.id 
+								INNER JOIN detail_kaskeluar ds ON s.id = ds.id_kaskeluar
+
+								WHERE j.is_deleted IS NULL
+ERROR - 08-05-2019 04:54:45 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 04:54:45 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 04:54:45 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 04:54:45 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 04:54:45 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 09:54:46 --> Query error: Unknown column 'a.akun' in 'field list' - Invalid query: 
+							SELECT 
+								j.*, 
+								d.*, 
+								a.akun as akun,
+								k.id as id_karyawan, 
+								k.nama as karyawan, 
+								s.nomor as nomorkaskeluar, 
+								s.memo as keterangankaskeluar, 
+								s.tanggal as tanggalkaskeluar, 
+								ds.id as id_detailkaskeluar,
+								ds.id_akun as id_akun
+
+								FROM jurnal j 
+								
+								INNER JOIN jurnal_detail d ON d.id_kaskeluar = j.id 
+								INNER JOIN kaskeluar s ON j.id_kaskeluar = s.id 
+								INNER JOIN karyawan k ON s.id_karyawan = k.id 
+								INNER JOIN detail_kaskeluar ds ON s.id = ds.id_kaskeluar
+
+								WHERE j.is_deleted IS NULL
+ERROR - 08-05-2019 04:55:31 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 04:55:32 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 04:55:32 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 04:55:32 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 04:55:32 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 09:55:32 --> Query error: Unknown column 'a.akun' in 'field list' - Invalid query: 
+							SELECT 
+								j.*, 
+								d.*, 
+								a.akun as akun,
+								k.id as id_karyawan, 
+								k.nama as karyawan, 
+								s.nomor as nomorkaskeluar, 
+								s.memo as keterangankaskeluar, 
+								s.tanggal as tanggalkaskeluar, 
+								ds.id as id_detailkaskeluar,
+								ds.id_akun as id_akun
+
+								FROM jurnal j 
+								
+								INNER JOIN jurnal_detail d ON d.id_kaskeluar = j.id 
+								INNER JOIN kaskeluar s ON j.id_kaskeluar = s.id 
+								INNER JOIN karyawan k ON s.id_karyawan = k.id 
+								INNER JOIN detail_kaskeluar ds ON s.id = ds.id_kaskeluar
+								INNER JOIN akun a ON ds.id_akun = a.id
+								WHERE j.is_deleted IS NULL
+ERROR - 08-05-2019 04:55:55 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 04:55:55 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 04:55:55 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 04:55:55 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 04:55:55 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 09:55:56 --> Query error: Unknown column 'a.akun' in 'field list' - Invalid query: 
+							SELECT 
+								j.*, 
+								d.*, 
+								a.akun,
+								k.id as id_karyawan, 
+								k.nama as karyawan, 
+								s.nomor as nomorkaskeluar, 
+								s.memo as keterangankaskeluar, 
+								s.tanggal as tanggalkaskeluar, 
+								ds.id as id_detailkaskeluar,
+								ds.id_akun as id_akun
+
+								FROM jurnal j 
+								
+								INNER JOIN jurnal_detail d ON d.id_kaskeluar = j.id 
+								INNER JOIN kaskeluar s ON j.id_kaskeluar = s.id 
+								INNER JOIN karyawan k ON s.id_karyawan = k.id 
+								INNER JOIN detail_kaskeluar ds ON s.id = ds.id_kaskeluar
+								INNER JOIN akun a ON ds.id_akun = a.id
+								WHERE j.is_deleted IS NULL
+ERROR - 08-05-2019 05:06:27 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 05:06:27 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:06:27 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:06:27 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:06:27 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 10:06:28 --> Query error: Unknown column 'jd.id' in 'field list' - Invalid query: SELECT kk.id as id_kaskeluar, 
+					kk.id_karyawan,
+					kk.nomor,
+					kk.tanggal,
+					kk.memo as keterangan,
+					dks.id as id_detailkaskeluar,
+					dks.id_akun,
+					dks.nominal,
+					a.id as id_akun,
+					a.kode as kode_akun,
+					a.nama as akun,
+					a.jenis,
+					a.saldo,
+					j.id as id_jurnal,
+					j.nomor_referensi as nomor_jurnal,
+					j.tanggal as tanggal_jurnal,
+					j.keterangan as keterangan_jurnal,
+					jd.id as id_jurnal_detail,
+					jd.debet as debet_jurnal_detail,
+					jd.kredit as kredit_jurnal_detail
+
+					FROM kaskeluar kk
+					INNER JOIN detail_kaskeluar dks ON dks.id_kaskeluar = kk.id
+					INNER JOIN akun a ON dks.id_akun = a.id
+					LEFT JOIN jurnal j ON j.id_kaskeluar = kk.id
+					WHERE kk.is_deleted IS NULL AND 
+					dks.is_deleted IS NULL AND
+					a.is_deleted IS NULL AND
+					j.is_deleted IS NULL 
+
+			
+ERROR - 08-05-2019 05:06:56 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 05:06:57 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:06:57 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:06:57 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 05:06:57 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 10:06:58 --> Query error: Unknown column 'jd.id_jurnal' in 'on clause' - Invalid query: SELECT kk.id as id_kaskeluar, 
+					kk.id_karyawan,
+					kk.nomor,
+					kk.tanggal,
+					kk.memo as keterangan,
+					dks.id as id_detailkaskeluar,
+					dks.id_akun,
+					dks.nominal,
+					a.id as id_akun,
+					a.kode as kode_akun,
+					a.nama as akun,
+					a.jenis,
+					a.saldo,
+					j.id as id_jurnal,
+					j.nomor_referensi as nomor_jurnal,
+					j.tanggal as tanggal_jurnal,
+					j.keterangan as keterangan_jurnal,
+					jd.id as id_jurnal_detail,
+					jd.debet as debet_jurnal_detail,
+					jd.kredit as kredit_jurnal_detail
+
+					FROM kaskeluar kk
+					INNER JOIN detail_kaskeluar dks ON dks.id_kaskeluar = kk.id
+					INNER JOIN akun a ON dks.id_akun = a.id
+					LEFT JOIN jurnal j ON j.id_kaskeluar = kk.id
+					LEFT JOIN jurnal_detail jd ON jd.id_jurnal = j.id 
+					WHERE kk.is_deleted IS NULL AND 
+					dks.is_deleted IS NULL AND
+					a.is_deleted IS NULL AND
+					j.is_deleted IS NULL 
+
+			
+ERROR - 08-05-2019 05:07:45 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 05:07:45 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:07:45 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:07:45 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:07:45 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 05:09:16 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 05:09:16 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:09:17 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:09:17 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:09:17 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 05:09:45 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 05:09:45 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:09:45 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:09:45 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 05:09:45 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:11:26 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 05:11:27 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:11:27 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:11:27 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 05:11:27 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:11:32 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 05:11:32 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:11:32 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:11:32 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 05:11:32 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:16:41 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 05:16:41 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:16:41 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 05:16:41 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:16:41 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:18:42 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 05:18:43 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:18:43 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:18:43 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 05:18:43 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:20:07 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 05:20:08 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:20:08 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:20:08 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:20:08 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 05:20:33 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 05:20:33 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:20:33 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:20:33 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 05:20:33 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:20:55 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 05:20:56 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:20:56 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:20:56 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 05:20:56 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:22:42 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 05:22:42 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:22:43 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:22:43 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 05:22:44 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 06:30:42 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 06:30:42 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 06:30:42 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 06:30:42 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 06:30:42 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 11:30:43 --> Query error: Unknown column 'a.nominal' in 'field list' - Invalid query: SELECT d.*, a.id as id_akun, a.kode, a.nama, a.jenis, a.saldo, a.nominal FROM detail_kaskeluar d INNER JOIN akun a ON d.id_akun = a.id WHERE d.id_kaskeluar='5' AND d.is_deleted IS NULL
+ERROR - 08-05-2019 06:32:30 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 06:32:30 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 06:32:31 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 06:32:31 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 06:32:31 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 11:33:44 --> Query error: Table 'bsi.detail_jurnal' doesn't exist - Invalid query: INSERT INTO `detail_jurnal` (`id_jurnal`, `id_akun`, `nomor_referensi`, `debet`, `kredit`) VALUES (2, '2', 'JU000002', '0', '2147483647')
+ERROR - 08-05-2019 06:34:08 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 06:34:08 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 06:34:08 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 06:34:08 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 06:34:08 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 06:56:18 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 06:56:18 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 06:56:18 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 06:56:18 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 06:56:18 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 11:56:19 --> Severity: Notice --> Undefined property: stdClass::$id D:\Server5\htdocs\bsi\aplikasi\models\Model.php 235
+ERROR - 08-05-2019 11:56:19 --> Severity: Notice --> Undefined property: stdClass::$debet D:\Server5\htdocs\bsi\aplikasi\models\Model.php 247
+ERROR - 08-05-2019 11:56:19 --> Severity: Notice --> Undefined property: stdClass::$Kredit D:\Server5\htdocs\bsi\aplikasi\models\Model.php 248
+ERROR - 08-05-2019 11:56:19 --> Severity: Notice --> Undefined property: stdClass::$id D:\Server5\htdocs\bsi\aplikasi\models\Model.php 235
+ERROR - 08-05-2019 11:56:19 --> Severity: Notice --> Undefined property: stdClass::$debet D:\Server5\htdocs\bsi\aplikasi\models\Model.php 247
+ERROR - 08-05-2019 11:56:19 --> Severity: Notice --> Undefined property: stdClass::$Kredit D:\Server5\htdocs\bsi\aplikasi\models\Model.php 248
+ERROR - 08-05-2019 11:56:19 --> Severity: Notice --> Undefined property: stdClass::$id D:\Server5\htdocs\bsi\aplikasi\models\Model.php 235
+ERROR - 08-05-2019 11:56:19 --> Severity: Notice --> Undefined property: stdClass::$debet D:\Server5\htdocs\bsi\aplikasi\models\Model.php 247
+ERROR - 08-05-2019 11:56:19 --> Severity: Notice --> Undefined property: stdClass::$Kredit D:\Server5\htdocs\bsi\aplikasi\models\Model.php 248
+ERROR - 08-05-2019 11:56:19 --> Severity: Notice --> Undefined property: stdClass::$id D:\Server5\htdocs\bsi\aplikasi\models\Model.php 235
+ERROR - 08-05-2019 11:56:19 --> Severity: Notice --> Undefined property: stdClass::$debet D:\Server5\htdocs\bsi\aplikasi\models\Model.php 247
+ERROR - 08-05-2019 11:56:19 --> Severity: Notice --> Undefined property: stdClass::$Kredit D:\Server5\htdocs\bsi\aplikasi\models\Model.php 248
+ERROR - 08-05-2019 06:56:49 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 06:56:49 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 06:56:49 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 06:56:53 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 06:56:53 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 11:56:54 --> Severity: Notice --> Undefined property: stdClass::$debet D:\Server5\htdocs\bsi\aplikasi\models\Model.php 247
+ERROR - 08-05-2019 11:56:54 --> Severity: Notice --> Undefined property: stdClass::$Kredit D:\Server5\htdocs\bsi\aplikasi\models\Model.php 248
+ERROR - 08-05-2019 11:56:54 --> Severity: Notice --> Undefined property: stdClass::$debet D:\Server5\htdocs\bsi\aplikasi\models\Model.php 247
+ERROR - 08-05-2019 11:56:54 --> Severity: Notice --> Undefined property: stdClass::$Kredit D:\Server5\htdocs\bsi\aplikasi\models\Model.php 248
+ERROR - 08-05-2019 11:56:54 --> Severity: Notice --> Undefined property: stdClass::$debet D:\Server5\htdocs\bsi\aplikasi\models\Model.php 247
+ERROR - 08-05-2019 11:56:54 --> Severity: Notice --> Undefined property: stdClass::$Kredit D:\Server5\htdocs\bsi\aplikasi\models\Model.php 248
+ERROR - 08-05-2019 11:56:54 --> Severity: Notice --> Undefined property: stdClass::$debet D:\Server5\htdocs\bsi\aplikasi\models\Model.php 247
+ERROR - 08-05-2019 11:56:54 --> Severity: Notice --> Undefined property: stdClass::$Kredit D:\Server5\htdocs\bsi\aplikasi\models\Model.php 248
+ERROR - 08-05-2019 06:57:38 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 06:57:38 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 06:57:38 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 06:57:38 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 06:57:38 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 12:36:08 --> Severity: Notice --> Undefined property: stdClass::$keterangan D:\Server5\htdocs\bsi\aplikasi\models\Model.php 260
+ERROR - 08-05-2019 12:36:08 --> Severity: Notice --> Undefined property: stdClass::$keterangan D:\Server5\htdocs\bsi\aplikasi\models\Model.php 260
+ERROR - 08-05-2019 12:36:08 --> Severity: Notice --> Undefined property: stdClass::$keterangan D:\Server5\htdocs\bsi\aplikasi\models\Model.php 260
+ERROR - 08-05-2019 12:36:08 --> Severity: Notice --> Undefined property: stdClass::$keterangan D:\Server5\htdocs\bsi\aplikasi\models\Model.php 260
+ERROR - 08-05-2019 07:36:15 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 07:36:15 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 07:36:15 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 07:36:15 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 07:36:15 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 07:36:19 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 07:36:20 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 07:36:20 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 07:36:20 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 07:36:20 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 12:36:20 --> Severity: Notice --> Undefined property: stdClass::$keterangan D:\Server5\htdocs\bsi\aplikasi\models\Model.php 260
+ERROR - 08-05-2019 12:36:20 --> Severity: Notice --> Undefined property: stdClass::$keterangan D:\Server5\htdocs\bsi\aplikasi\models\Model.php 260
+ERROR - 08-05-2019 12:36:20 --> Severity: Notice --> Undefined property: stdClass::$keterangan D:\Server5\htdocs\bsi\aplikasi\models\Model.php 260
+ERROR - 08-05-2019 12:36:20 --> Severity: Notice --> Undefined property: stdClass::$keterangan D:\Server5\htdocs\bsi\aplikasi\models\Model.php 260
+ERROR - 08-05-2019 07:36:58 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 07:36:58 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 07:36:58 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 07:36:58 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 07:36:59 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 07:37:15 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 07:37:15 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 07:37:15 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 07:37:15 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 07:37:15 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 07:37:34 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 07:37:34 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 07:37:34 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 07:37:34 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 07:37:34 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 07:37:49 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 07:37:49 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 07:37:50 --> 404 Page Not Found: Static/bower_components
+ERROR - 08-05-2019 07:37:50 --> 404 Page Not Found: Static/assets
+ERROR - 08-05-2019 07:37:50 --> 404 Page Not Found: Static/bower_components

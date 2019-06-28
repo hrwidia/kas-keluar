@@ -1,0 +1,855 @@
+ERROR - 21-05-2019 03:47:45 --> 404 Page Not Found: Laporan/index
+ERROR - 21-05-2019 04:51:47 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 04:51:47 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 04:51:47 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 04:51:47 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 04:51:47 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 04:52:02 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 04:52:02 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 04:52:02 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 04:52:02 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 04:52:02 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 04:53:23 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 04:53:23 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 04:53:23 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 04:53:23 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 04:53:23 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 04:53:31 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 04:53:32 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 04:53:32 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 04:53:32 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 04:53:32 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 04:54:09 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 04:54:09 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 04:54:09 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 04:54:09 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 04:54:10 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 04:55:10 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 04:55:10 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 04:55:11 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 04:55:11 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 04:55:11 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 04:56:50 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 04:56:50 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 04:56:50 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 04:56:50 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 04:56:50 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 04:57:08 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 04:57:08 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 04:57:08 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 04:57:08 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 04:57:08 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 04:58:03 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 04:58:03 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 04:58:03 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 04:58:03 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 04:58:03 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 04:59:05 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 04:59:05 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 04:59:05 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 04:59:05 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 04:59:05 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 04:59:34 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 04:59:34 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 04:59:34 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 04:59:34 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 04:59:34 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 04:59:50 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 04:59:50 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 04:59:51 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 04:59:51 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 04:59:51 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:00:14 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:00:14 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:00:15 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:00:15 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:00:15 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:00:51 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:00:51 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:00:51 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:00:51 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:00:51 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 10:00:53 --> Query error: Unknown column 'j.id_kaskeluar_dari_jurnal' in 'on clause' - Invalid query: SELECT j.id,
+								 j.id_kaskeluar as id_kaskeluar_dari_jurnal,  
+								 j.nomor_referensi as nomor_jurnal, 
+								 j.tanggal as tanggal_jurnal, 
+								 j.keterangan as keterangan_jurnal,
+								 j.is_deleted as is_deleted_jurnal,
+								 k.id as id_kas_keluar,
+								 k.id_karyawan,
+								 k.nomor as nomor_kas,
+								 k.tanggal as tanggal_kas,
+								 k.memo as memo_kas
+								 FROM jurnal j
+								 INNER JOIN  kaskeluar k ON
+								 j.id_kaskeluar_dari_jurnal = k.id_kas_keluar
+								 WHERE MONTH(j.tanggal) = '' AND j.is_deleted IS NULL
+ERROR - 21-05-2019 05:02:32 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:02:33 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:02:33 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:02:33 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:02:33 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:03:28 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:03:28 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:03:28 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:03:28 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:03:28 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:04:02 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:04:02 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:04:02 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:04:02 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:04:02 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:05:16 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:05:16 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:05:16 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:05:16 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:05:16 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:05:33 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:05:33 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:05:33 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:05:33 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:05:33 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:06:02 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:06:02 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:06:03 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:06:03 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:06:03 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:06:52 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:06:52 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:06:52 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:06:52 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:06:52 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:07:44 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:07:44 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:07:44 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:07:44 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:07:44 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:07:47 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:07:47 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:07:47 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:07:47 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:07:47 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:08:30 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:08:30 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:08:30 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:08:30 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:08:30 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:08:37 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:08:37 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:08:37 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:08:37 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:08:37 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:08:55 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:08:55 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:08:55 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:08:55 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:08:55 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:09:03 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:09:03 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:09:03 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:09:03 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:09:03 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:09:08 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:09:08 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:09:08 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:09:08 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:09:08 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:10:51 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:10:51 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:10:51 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:10:51 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:10:51 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:11:05 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:11:06 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:11:06 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:11:06 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:11:07 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:11:42 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:11:42 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:11:42 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:11:42 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:11:43 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:12:33 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:12:33 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:12:33 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:12:33 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:12:33 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:13:26 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:13:26 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:13:27 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:13:27 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:13:27 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:13:34 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:13:34 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:13:34 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:13:34 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:13:34 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:14:01 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:14:02 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:14:02 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:14:02 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:14:02 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:14:18 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:14:18 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:14:18 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:14:18 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:14:18 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:14:29 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:14:30 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:14:30 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:14:31 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:14:31 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:19:24 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:19:24 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:19:24 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:19:24 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:19:25 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:19:44 --> Severity: error --> Exception: syntax error, unexpected 'static' (T_STATIC) E:\Server\htdocs\bsi\aplikasi\controllers\Backend.php 603
+ERROR - 21-05-2019 05:20:11 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:20:11 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:20:12 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:20:12 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:20:12 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:20:12 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:20:12 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:20:12 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:20:12 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:20:16 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:20:40 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:20:40 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:20:40 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:20:40 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:20:40 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:20:41 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:20:41 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:20:41 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:20:41 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:20:48 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:20:48 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:20:48 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:20:48 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:23:28 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:23:28 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:23:28 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:23:28 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:23:28 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:23:55 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:23:55 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:23:55 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:23:55 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:24:15 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:24:15 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:24:15 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:24:15 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:24:15 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:24:43 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:24:43 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:24:44 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:24:48 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:24:48 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:24:48 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:24:49 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:24:49 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:27:11 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:27:12 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:27:12 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:27:19 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:27:19 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:28:06 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:28:06 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:28:06 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:28:08 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:28:08 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:28:47 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:28:47 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:28:47 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:28:47 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:28:53 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:28:53 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:28:55 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:28:55 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:31:15 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:31:15 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:31:15 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:31:15 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:38:18 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:38:18 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:38:19 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:38:21 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:38:21 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:39:15 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:39:15 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:39:15 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:39:15 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:39:31 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:39:31 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:39:32 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:39:32 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:39:32 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:39:32 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:39:33 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:39:33 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:39:33 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:39:39 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:39:39 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:39:39 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:39:39 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:39:39 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:39:39 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:39:39 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:39:39 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:39:40 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:40:56 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:40:56 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:40:56 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:40:57 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:40:57 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:40:57 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:40:57 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:40:58 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:40:58 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:40:58 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:41:00 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:41:00 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:41:00 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:41:00 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:41:01 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:41:01 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:41:01 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:41:01 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:41:01 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:41:11 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:42:23 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:42:23 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:42:23 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:42:23 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:42:23 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:42:24 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:42:24 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:42:24 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:42:24 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:49:16 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:49:17 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:49:17 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:49:17 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:49:17 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:49:17 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:49:17 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:49:17 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:49:17 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:49:18 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:52:43 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:52:44 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:52:44 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:52:44 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:52:44 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:52:44 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:52:44 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:52:44 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:52:44 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:53:07 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:53:07 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:53:07 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:53:07 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:53:07 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:53:41 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:53:41 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:53:41 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:53:41 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:53:41 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:53:41 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:53:41 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:53:41 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:53:41 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:53:41 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:53:45 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:53:46 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:53:46 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:53:46 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:53:46 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:53:46 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:53:46 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:53:46 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:53:46 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:55:45 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:55:45 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:55:46 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:55:46 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:55:46 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:55:46 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:55:46 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:55:46 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 05:55:46 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 05:55:46 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 06:08:28 --> Severity: error --> Exception: syntax error, unexpected 'foreach' (T_FOREACH) E:\Server\htdocs\bsi\aplikasi\controllers\Backend.php 632
+ERROR - 21-05-2019 06:08:45 --> Severity: error --> Exception: syntax error, unexpected 'foreach' (T_FOREACH) E:\Server\htdocs\bsi\aplikasi\controllers\Backend.php 632
+ERROR - 21-05-2019 06:09:00 --> Severity: error --> Exception: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) E:\Server\htdocs\bsi\aplikasi\controllers\Backend.php 633
+ERROR - 21-05-2019 06:09:23 --> Severity: error --> Exception: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) E:\Server\htdocs\bsi\aplikasi\controllers\Backend.php 633
+ERROR - 21-05-2019 06:09:25 --> Severity: error --> Exception: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) E:\Server\htdocs\bsi\aplikasi\controllers\Backend.php 633
+ERROR - 21-05-2019 06:09:25 --> Severity: error --> Exception: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) E:\Server\htdocs\bsi\aplikasi\controllers\Backend.php 633
+ERROR - 21-05-2019 06:11:17 --> Severity: error --> Exception: syntax error, unexpected 'foreach' (T_FOREACH) E:\Server\htdocs\bsi\aplikasi\controllers\Backend.php 621
+ERROR - 21-05-2019 06:11:49 --> Severity: error --> Exception: syntax error, unexpected 'foreach' (T_FOREACH) E:\Server\htdocs\bsi\aplikasi\controllers\Backend.php 621
+ERROR - 21-05-2019 06:12:31 --> Severity: error --> Exception: syntax error, unexpected 'foreach' (T_FOREACH) E:\Server\htdocs\bsi\aplikasi\controllers\Backend.php 621
+ERROR - 21-05-2019 06:12:32 --> Severity: error --> Exception: syntax error, unexpected 'foreach' (T_FOREACH) E:\Server\htdocs\bsi\aplikasi\controllers\Backend.php 621
+ERROR - 21-05-2019 06:12:37 --> Severity: error --> Exception: syntax error, unexpected 'foreach' (T_FOREACH) E:\Server\htdocs\bsi\aplikasi\controllers\Backend.php 621
+ERROR - 21-05-2019 06:13:07 --> Severity: error --> Exception: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) E:\Server\htdocs\bsi\aplikasi\controllers\Backend.php 622
+ERROR - 21-05-2019 06:14:21 --> Severity: error --> Exception: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) E:\Server\htdocs\bsi\aplikasi\controllers\Backend.php 622
+ERROR - 21-05-2019 06:14:48 --> Severity: error --> Exception: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) E:\Server\htdocs\bsi\aplikasi\controllers\Backend.php 622
+ERROR - 21-05-2019 06:14:49 --> Severity: error --> Exception: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) E:\Server\htdocs\bsi\aplikasi\controllers\Backend.php 622
+ERROR - 21-05-2019 06:15:00 --> Severity: error --> Exception: syntax error, unexpected 'foreach' (T_FOREACH) E:\Server\htdocs\bsi\aplikasi\controllers\Backend.php 621
+ERROR - 21-05-2019 06:15:00 --> Severity: error --> Exception: syntax error, unexpected 'foreach' (T_FOREACH) E:\Server\htdocs\bsi\aplikasi\controllers\Backend.php 621
+ERROR - 21-05-2019 06:15:01 --> Severity: error --> Exception: syntax error, unexpected 'foreach' (T_FOREACH) E:\Server\htdocs\bsi\aplikasi\controllers\Backend.php 621
+ERROR - 21-05-2019 06:15:08 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:15:08 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:15:08 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:15:08 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:16:02 --> Severity: error --> Exception: syntax error, unexpected 'foreach' (T_FOREACH) E:\Server\htdocs\bsi\aplikasi\controllers\Backend.php 638
+ERROR - 21-05-2019 06:16:11 --> Severity: error --> Exception: syntax error, unexpected 'foreach' (T_FOREACH) E:\Server\htdocs\bsi\aplikasi\controllers\Backend.php 638
+ERROR - 21-05-2019 06:18:06 --> Severity: error --> Exception: syntax error, unexpected 'foreach' (T_FOREACH) E:\Server\htdocs\bsi\aplikasi\controllers\Backend.php 638
+ERROR - 21-05-2019 06:29:02 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:29:02 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:29:02 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:29:02 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:29:03 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:29:03 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 06:29:03 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 06:29:03 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:29:03 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 11:29:07 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as a.id
+								 WHERE MONTH(j.tanggal) = '05' AND j.is_deleted IS NULL' at line 27 - Invalid query: SELECT j.id,
+								 j.id_kaskeluar as id_kaskeluar_dari_jurnal,  
+								 j.nomor_referensi as nomor_jurnal, 
+								 j.tanggal as tanggal_jurnal, 
+								 j.keterangan as keterangan_jurnal,
+								 j.is_deleted as is_deleted_jurnal,
+								 k.id as id_kas_keluar,
+								 k.id_karyawan,
+								 k.nomor as nomor_kas,
+								 k.tanggal as tanggal_kas,
+								 k.memo as memo_kas,
+								 dk.id as id_detail_kas_keluar,
+								 dk.id_akun as id_akun,
+								 a.id as id_akun,
+								 a.kode as kode_akun,
+								 a.nama as akun,
+								 a.jenis as jenis,
+								 jd.id as id_jurnal_detail,
+								 jd.kredit as kredit,
+								 jd.debet as debet
+								 FROM jurnal j
+								 INNER JOIN kaskeluar k ON
+								 j.id_kaskeluar = k.id
+								 INNER JOIN detail_kaskeluar dk ON
+								 k.id = dk.id_kaskeluar
+								 INNER JOIN akun a ON 
+								 dk.id_akun as a.id
+								 WHERE MONTH(j.tanggal) = '05' AND j.is_deleted IS NULL
+ERROR - 21-05-2019 06:29:36 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:29:36 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:29:36 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:29:36 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:29:37 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:29:37 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:29:37 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 06:29:37 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 06:29:37 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:29:37 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 11:31:02 --> Query error: Unknown column 'jd.id' in 'field list' - Invalid query: SELECT j.id,
+								 j.id_kaskeluar as id_kaskeluar_dari_jurnal,  
+								 j.nomor_referensi as nomor_jurnal, 
+								 j.tanggal as tanggal_jurnal, 
+								 j.keterangan as keterangan_jurnal,
+								 j.is_deleted as is_deleted_jurnal,
+								 k.id as id_kas_keluar,
+								 k.id_karyawan,
+								 k.nomor as nomor_kas,
+								 k.tanggal as tanggal_kas,
+								 k.memo as memo_kas,
+								 dk.id as id_detail_kas_keluar,
+								 dk.id_akun as id_akun,
+								 a.id as id_akun,
+								 a.kode as kode_akun,
+								 a.nama as akun,
+								 a.jenis as jenis,
+								 jd.id as id_jurnal_detail,
+								 jd.kredit as kredit,
+								 jd.debet as debet
+								 FROM jurnal j
+								 INNER JOIN kaskeluar k ON
+								 j.id_kaskeluar = k.id
+								 INNER JOIN detail_kaskeluar dk ON
+								 k.id = dk.id_kaskeluar
+								 INNER JOIN akun a ON 
+								 dk.id_akun = a.id
+								 WHERE MONTH(j.tanggal) = '05' AND j.is_deleted IS NULL
+ERROR - 21-05-2019 06:33:14 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:33:14 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:33:14 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:33:14 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:33:15 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:33:15 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:33:15 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 06:33:15 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 06:33:15 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:33:15 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 06:35:15 --> 404 Page Not Found: Asdasdasdjhasd/index
+ERROR - 21-05-2019 06:50:14 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 06:50:14 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:50:14 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 06:50:14 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 06:50:14 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:50:15 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:50:15 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:50:15 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:50:15 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:50:16 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 06:50:16 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:50:16 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:50:16 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 06:50:16 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:50:16 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 11:50:21 --> Query error: Unknown column 'jd.id' in 'field list' - Invalid query: SELECT j.id,
+								 j.id_kaskeluar as id_kaskeluar_dari_jurnal,  
+								 j.nomor_referensi as nomor_jurnal, 
+								 j.tanggal as tanggal_jurnal, 
+								 j.keterangan as keterangan_jurnal,
+								 j.is_deleted as is_deleted_jurnal,
+								 k.id as id_kas_keluar,
+								 k.id_karyawan,
+								 k.nomor as nomor_kas,
+								 k.tanggal as tanggal_kas,
+								 k.memo as memo_kas,
+								 dk.id as id_detail_kas_keluar,
+								 dk.id_akun as id_akun,
+								 a.id as id_akun,
+								 a.kode as kode_akun,
+								 a.nama as akun,
+								 a.jenis as jenis,
+								 jd.id as id_jurnal_detail,
+								 jd.kredit as kredit,
+								 jd.debet as debet
+								 FROM jurnal j
+								 INNER JOIN kaskeluar k ON
+								 j.id_kaskeluar = k.id
+								 INNER JOIN detail_kaskeluar dk ON
+								 k.id = dk.id_kaskeluar
+								 INNER JOIN akun a ON 
+								 dk.id_akun = a.id
+								 INNER JOIN jurnal_detail ON
+								 jd.id_jurnal = j.id
+								 WHERE MONTH(j.tanggal) = '05' AND j.is_deleted IS NULL
+ERROR - 21-05-2019 06:50:55 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:50:55 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:50:55 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:50:55 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:50:55 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:50:55 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 06:50:55 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 06:50:55 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:50:56 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 11:51:00 --> Query error: Unknown column 'jd.kredit' in 'field list' - Invalid query: SELECT j.id,
+								 j.id_kaskeluar as id_kaskeluar_dari_jurnal,  
+								 j.nomor_referensi as nomor_jurnal, 
+								 j.tanggal as tanggal_jurnal, 
+								 j.keterangan as keterangan_jurnal,
+								 j.is_deleted as is_deleted_jurnal,
+								 k.id as id_kas_keluar,
+								 k.id_karyawan,
+								 k.nomor as nomor_kas,
+								 k.tanggal as tanggal_kas,
+								 k.memo as memo_kas,
+								 dk.id as id_detail_kas_keluar,
+								 dk.id_akun as id_akun,
+								 a.id as id_akun,
+								 a.kode as kode_akun,
+								 a.nama as akun,
+								 a.jenis as jenis,
+								 jd.kredit as kredit,
+								 jd.debet as debet
+								 FROM jurnal j
+								 INNER JOIN kaskeluar k ON
+								 j.id_kaskeluar = k.id
+								 INNER JOIN detail_kaskeluar dk ON
+								 k.id = dk.id_kaskeluar
+								 INNER JOIN akun a ON 
+								 dk.id_akun = a.id
+								 INNER JOIN jurnal_detail ON
+								 jd.id_jurnal = j.id
+								 WHERE MONTH(j.tanggal) = '05' AND j.is_deleted IS NULL
+ERROR - 21-05-2019 06:51:32 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:51:32 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:51:32 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:51:32 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:51:32 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:51:32 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:51:32 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 06:51:32 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 06:51:33 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 06:51:33 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:08:56 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:08:56 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:08:56 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:08:57 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:08:57 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:08:57 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:08:57 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:08:57 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:08:57 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:08:57 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:09:38 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:09:38 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:09:38 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:09:38 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:09:38 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:09:38 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:09:39 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:09:39 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:09:39 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:10:07 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:10:07 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:10:07 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:10:07 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:10:11 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:10:12 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:10:12 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:10:12 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:10:12 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:10:12 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:10:12 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:10:13 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:10:19 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:10:19 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:10:19 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:10:19 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:10:19 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:10:19 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:10:20 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:10:20 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:10:20 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:11:38 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:11:38 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:11:38 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:11:38 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:13:56 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:13:56 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:13:56 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:13:56 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:13:57 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:13:57 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:13:57 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:13:57 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:13:57 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:14:12 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:14:12 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:14:12 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:14:12 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:14:12 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:17:57 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:17:57 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:17:57 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:17:57 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:17:58 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:17:58 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:17:58 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:17:58 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:17:58 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:18:06 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:18:06 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:18:06 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:18:06 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:18:06 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:18:21 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:18:21 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:18:21 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:18:21 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:18:21 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:18:21 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:18:21 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:18:21 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:18:21 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:18:21 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:19:06 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:19:06 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:19:07 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:19:07 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:19:07 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:19:07 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:19:07 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:19:07 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:19:07 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:19:41 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:19:41 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:19:41 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:19:41 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:19:41 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:19:41 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:19:42 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:19:42 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:19:42 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:20:32 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:20:32 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:20:32 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:20:32 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:20:32 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:20:32 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:20:35 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:20:35 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:20:35 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:22:02 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:22:02 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:22:02 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:22:02 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:22:02 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:22:02 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:22:02 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:22:02 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:22:02 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:22:02 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:22:36 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:22:36 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:22:36 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:22:36 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:22:36 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:22:36 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:22:36 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:22:36 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:22:36 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:24:48 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:24:49 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:24:49 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:24:49 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:24:49 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:24:49 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:24:49 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:24:49 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:24:49 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:25:48 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:25:49 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:25:49 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:25:49 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:25:49 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:25:50 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:25:51 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:25:51 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:25:51 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 12:26:02 --> Severity: Notice --> Undefined variable: response E:\Server\htdocs\bsi\aplikasi\controllers\Backend.php 664
+ERROR - 21-05-2019 07:26:17 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:26:17 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:26:17 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:26:18 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:26:18 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:26:18 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:26:18 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:26:18 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:26:18 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:26:18 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:26:52 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:26:52 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:26:52 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:26:53 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:26:53 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:27:42 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:27:42 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:27:42 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:27:42 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:27:42 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:28:01 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:28:01 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:28:01 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:28:01 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:28:01 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:28:02 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:28:02 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:28:02 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:28:02 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:30:43 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:30:43 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:30:43 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:30:43 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:30:43 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:30:43 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:30:43 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:30:44 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:30:44 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:30:44 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:32:52 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:32:53 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:32:53 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:32:53 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:32:53 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:32:53 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:32:53 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:32:53 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:32:53 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:36:32 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:36:32 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:36:32 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:36:32 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:36:32 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:36:32 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:36:32 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:36:33 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:36:33 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:36:33 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:37:03 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:37:03 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:37:03 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:37:19 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:37:19 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:37:19 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:37:19 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:37:57 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:37:57 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:37:57 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:37:57 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:38:24 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:38:25 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:38:25 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:38:25 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:39:03 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:39:03 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:39:03 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:39:03 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:41:37 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:41:37 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:41:37 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:41:37 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:42:28 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:42:28 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:42:28 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:42:28 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:43:19 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:43:19 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:43:19 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:43:19 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:44:13 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:44:14 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:44:14 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:44:14 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:44:39 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:44:39 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:44:39 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:44:39 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:45:09 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:45:10 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:45:10 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:45:10 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:45:22 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:45:22 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:45:22 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:45:22 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:45:22 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:45:31 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:45:31 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:45:31 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:45:31 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:45:31 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:45:33 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:45:33 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:45:33 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:45:33 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:45:33 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:45:33 --> 404 Page Not Found: Static/assets
+ERROR - 21-05-2019 07:45:33 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:45:34 --> 404 Page Not Found: Static/bower_components
+ERROR - 21-05-2019 07:45:34 --> 404 Page Not Found: Static/assets

@@ -1,0 +1,104 @@
+ERROR - 19-06-2019 15:16:17 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 15:16:19 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 15:16:19 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 15:16:19 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 15:16:30 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 15:16:30 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 15:16:30 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 15:16:31 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 15:16:31 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:17:15 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:17:15 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:17:15 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:17:16 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:17:16 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:25:32 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:25:32 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:25:32 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:25:33 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:25:33 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:31:10 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:31:10 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:31:10 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:31:11 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:31:11 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:41:22 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:41:22 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:41:23 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:41:23 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:41:23 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:41:44 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:41:44 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:41:44 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:41:45 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:41:45 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:43:23 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:43:24 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:43:24 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:43:24 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:43:24 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 21:44:03 --> Severity: Notice --> Undefined variable: kode C:\xampp\htdocs\bsi\aplikasi\controllers\Backend.php 311
+ERROR - 19-06-2019 21:44:03 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\bsi\aplikasi\controllers\Backend.php 314
+ERROR - 19-06-2019 21:44:26 --> Severity: Notice --> Undefined variable: kode C:\xampp\htdocs\bsi\aplikasi\controllers\Backend.php 311
+ERROR - 19-06-2019 21:44:26 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\bsi\aplikasi\controllers\Backend.php 314
+ERROR - 19-06-2019 21:44:49 --> Severity: Notice --> Undefined variable: kode C:\xampp\htdocs\bsi\aplikasi\controllers\Backend.php 311
+ERROR - 19-06-2019 21:44:49 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\bsi\aplikasi\controllers\Backend.php 314
+ERROR - 19-06-2019 21:45:15 --> Severity: Notice --> Undefined variable: kode C:\xampp\htdocs\bsi\aplikasi\controllers\Backend.php 311
+ERROR - 19-06-2019 21:45:15 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\bsi\aplikasi\controllers\Backend.php 314
+ERROR - 19-06-2019 21:46:17 --> Severity: Notice --> Undefined variable: kode C:\xampp\htdocs\bsi\aplikasi\controllers\Backend.php 311
+ERROR - 19-06-2019 21:46:17 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\bsi\aplikasi\controllers\Backend.php 314
+ERROR - 19-06-2019 16:46:23 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:46:23 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:46:23 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:46:23 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:46:23 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:46:30 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:46:30 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:46:30 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:46:30 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:46:30 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:47:57 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:47:57 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:47:57 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:47:57 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:47:58 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:48:20 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:48:20 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:48:20 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:48:21 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:48:21 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:48:37 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:48:37 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:48:38 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:48:38 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:48:38 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:48:43 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:48:43 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:48:43 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:48:44 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:48:44 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:48:51 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:48:51 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:48:51 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:48:51 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:48:52 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:49:00 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:49:00 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:49:00 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:49:00 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:49:00 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:51:04 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:51:04 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:51:05 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:51:05 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:51:05 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:51:41 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:51:41 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:51:42 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:51:42 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:51:42 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:53:56 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:53:56 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:53:56 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:53:56 --> 404 Page Not Found: Static/assets
+ERROR - 19-06-2019 16:53:56 --> 404 Page Not Found: Static/assets

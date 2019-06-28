@@ -1,0 +1,173 @@
+ERROR - 07-05-2019 04:52:06 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 04:52:06 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 04:52:06 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 04:52:06 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 04:52:27 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 04:52:27 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 04:52:27 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 04:52:27 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 04:53:50 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 04:53:50 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 04:53:51 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 04:53:51 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 04:53:51 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 04:54:00 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 04:54:00 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 04:54:00 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 04:54:00 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 04:54:00 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 04:56:41 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 04:56:41 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 04:56:41 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 04:56:41 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 04:56:41 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 04:56:45 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 04:56:45 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 04:56:46 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 04:56:46 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 04:56:46 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 04:57:29 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 04:57:29 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 04:57:30 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 04:57:30 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 04:57:30 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 04:58:16 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 04:58:16 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 04:58:17 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 04:58:17 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 04:58:17 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 04:58:58 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 04:58:58 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 04:58:58 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 04:58:58 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 04:58:58 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 04:59:01 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 04:59:01 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 04:59:01 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 04:59:01 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 04:59:01 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:00:45 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 05:00:45 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:00:45 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:00:45 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 05:00:45 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:00:55 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 05:00:55 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:00:55 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:00:55 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 05:00:55 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:05:43 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 05:05:44 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:05:44 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:05:44 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:05:44 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 05:06:12 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 05:06:12 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:06:13 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:06:13 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 05:06:13 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:13:32 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 05:13:32 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:13:32 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:13:32 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 05:13:32 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:18:28 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 05:18:28 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:18:28 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 05:18:28 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:18:28 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:18:40 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 05:18:40 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:18:40 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:18:40 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:18:41 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 10:19:08 --> Query error: Unknown column 'id_kaskeluar' in 'where clause' - Invalid query: UPDATE `kaskeluar` SET `id_akun` = '1', `nominal` = '20012'
+WHERE `id_kaskeluar` = '4'
+ERROR - 07-05-2019 05:19:13 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 05:19:13 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 05:19:13 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:19:13 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:19:13 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:19:16 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 05:19:16 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:19:16 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:19:16 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:19:16 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 10:19:29 --> Query error: Unknown column 'id_kaskeluar' in 'where clause' - Invalid query: UPDATE `kaskeluar` SET `id_akun` = '1', `nominal` = '23232323'
+WHERE `id_kaskeluar` = '4'
+ERROR - 07-05-2019 05:19:41 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 05:19:41 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:19:42 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:19:42 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:19:42 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 05:20:59 --> 404 Page Not Found: Jurnal_umum/index
+ERROR - 07-05-2019 05:25:09 --> 404 Page Not Found: Jurnal_umum/index
+ERROR - 07-05-2019 05:25:35 --> 404 Page Not Found: Jurnal_umum/index
+ERROR - 07-05-2019 10:25:40 --> Severity: Error --> Call to undefined method Model::getJurnal() D:\Server5\htdocs\bsi\aplikasi\helpers\cici_helper.php 237
+ERROR - 07-05-2019 05:37:22 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 05:37:22 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:37:22 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 05:37:22 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:37:22 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:39:50 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 05:39:50 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:39:50 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 05:39:50 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:39:51 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:39:52 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 05:39:52 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:39:52 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:39:52 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:39:52 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 05:40:17 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 05:40:17 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:40:17 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:40:17 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 05:40:18 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 10:44:32 --> Severity: Error --> Call to undefined method Model::getJurnal() D:\Server5\htdocs\bsi\aplikasi\helpers\cici_helper.php 237
+ERROR - 07-05-2019 05:44:37 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 05:44:37 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:44:37 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 05:44:37 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 05:44:37 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 10:45:22 --> Query error: Unknown column 'nomor' in 'field list' - Invalid query: SELECT max(right(nomor, 6)) as nomor FROM jurnal WHERE is_deleted IS NULL
+ERROR - 07-05-2019 10:45:26 --> Query error: Unknown column 'nomor' in 'field list' - Invalid query: SELECT max(right(nomor, 6)) as nomor FROM jurnal WHERE is_deleted IS NULL
+ERROR - 07-05-2019 10:50:36 --> Query error: Unknown column 'nomor' in 'field list' - Invalid query: SELECT max(right(nomor, 6)) as nomor FROM jurnal WHERE is_deleted IS NULL
+ERROR - 07-05-2019 10:54:06 --> Severity: Error --> Call to undefined method Model::getJurnal() D:\Server5\htdocs\bsi\aplikasi\helpers\cici_helper.php 237
+ERROR - 07-05-2019 10:54:08 --> Query error: Unknown column 'nomor' in 'field list' - Invalid query: SELECT max(right(nomor, 6)) as nomor FROM jurnal WHERE is_deleted IS NULL
+ERROR - 07-05-2019 10:54:16 --> Severity: Error --> Call to undefined method Model::getJurnal() D:\Server5\htdocs\bsi\aplikasi\helpers\cici_helper.php 237
+ERROR - 07-05-2019 10:54:26 --> Severity: Error --> Call to undefined method Model::getJurnal() D:\Server5\htdocs\bsi\aplikasi\helpers\cici_helper.php 237
+ERROR - 07-05-2019 10:58:54 --> Query error: Unknown column 'nomor' in 'field list' - Invalid query: SELECT max(right(nomor, 6)) as nomor FROM jurnal WHERE is_deleted IS NULL
+ERROR - 07-05-2019 10:59:05 --> Severity: Error --> Call to undefined method Model::getJurnal() D:\Server5\htdocs\bsi\aplikasi\helpers\cici_helper.php 237
+ERROR - 07-05-2019 10:59:07 --> Query error: Unknown column 'nomor' in 'field list' - Invalid query: SELECT max(right(nomor, 6)) as nomor FROM jurnal WHERE is_deleted IS NULL
+ERROR - 07-05-2019 10:59:22 --> Severity: Error --> Call to undefined method Model::getJurnal() D:\Server5\htdocs\bsi\aplikasi\helpers\cici_helper.php 237
+ERROR - 07-05-2019 11:01:14 --> Query error: Unknown column 'nomor' in 'field list' - Invalid query: SELECT max(right(nomor, 6)) as nomor FROM jurnal WHERE is_deleted IS NULL
+ERROR - 07-05-2019 06:01:26 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 06:01:26 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 06:01:26 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 06:01:26 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 11:01:26 --> Severity: Error --> Call to undefined method Model::getJurnal() D:\Server5\htdocs\bsi\aplikasi\helpers\cici_helper.php 237
+ERROR - 07-05-2019 06:01:26 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 06:01:27 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 06:01:27 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 06:01:27 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 06:01:27 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 06:01:27 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 11:01:27 --> Severity: Error --> Call to undefined method Model::getJurnal() D:\Server5\htdocs\bsi\aplikasi\helpers\cici_helper.php 237
+ERROR - 07-05-2019 11:01:29 --> Query error: Unknown column 'nomor' in 'field list' - Invalid query: SELECT max(right(nomor, 6)) as nomor FROM jurnal WHERE is_deleted IS NULL
+ERROR - 07-05-2019 06:02:12 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 06:02:12 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 06:02:12 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 06:02:12 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 06:02:12 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 11:02:12 --> Severity: Error --> Call to undefined method Model::getJurnal() D:\Server5\htdocs\bsi\aplikasi\helpers\cici_helper.php 237
+ERROR - 07-05-2019 06:08:34 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 06:08:35 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 06:08:35 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 06:08:35 --> 404 Page Not Found: Static/bower_components
+ERROR - 07-05-2019 06:08:35 --> 404 Page Not Found: Static/assets
+ERROR - 07-05-2019 11:08:35 --> Severity: Error --> Call to undefined method Model::getJurnal() D:\Server5\htdocs\bsi\aplikasi\helpers\cici_helper.php 237
+ERROR - 07-05-2019 11:08:53 --> Severity: Error --> Call to undefined method Model::getJurnal() D:\Server5\htdocs\bsi\aplikasi\helpers\cici_helper.php 237
+ERROR - 07-05-2019 12:51:17 --> Severity: Error --> Call to undefined method Model::getJurnal() D:\Server5\htdocs\bsi\aplikasi\helpers\cici_helper.php 237
+ERROR - 07-05-2019 12:51:34 --> Severity: Error --> Call to undefined method Model::getJurnal() D:\Server5\htdocs\bsi\aplikasi\helpers\cici_helper.php 237
+ERROR - 07-05-2019 12:52:55 --> Severity: Error --> Call to undefined method Model::getJurnal() D:\Server5\htdocs\bsi\aplikasi\helpers\cici_helper.php 237

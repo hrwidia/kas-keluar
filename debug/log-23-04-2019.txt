@@ -1,0 +1,29 @@
+ERROR - 23-04-2019 07:57:27 --> 404 Page Not Found: Proposal/index
+ERROR - 23-04-2019 13:04:01 --> Severity: Warning --> include(modul/proposal/index.php): failed to open stream: No such file or directory D:\Server5\htdocs\Sistem Pencatatan Pengeluaran Kas atas Pengadaan Proyek\aplikasi\views\backend\index.php 793
+ERROR - 23-04-2019 13:04:01 --> Severity: Warning --> include(): Failed opening 'modul/proposal/index.php' for inclusion (include_path='D:\Server5\php\PEAR') D:\Server5\htdocs\Sistem Pencatatan Pengeluaran Kas atas Pengadaan Proyek\aplikasi\views\backend\index.php 793
+ERROR - 23-04-2019 13:07:17 --> Severity: Warning --> include(modul/proposal/index.php): failed to open stream: No such file or directory D:\Server5\htdocs\Sistem Pencatatan Pengeluaran Kas atas Pengadaan Proyek\aplikasi\views\backend\index.php 793
+ERROR - 23-04-2019 13:07:17 --> Severity: Warning --> include(): Failed opening 'modul/proposal/index.php' for inclusion (include_path='D:\Server5\php\PEAR') D:\Server5\htdocs\Sistem Pencatatan Pengeluaran Kas atas Pengadaan Proyek\aplikasi\views\backend\index.php 793
+ERROR - 23-04-2019 13:15:04 --> Severity: Warning --> include(modul/proposal/index.php): failed to open stream: No such file or directory D:\Server5\htdocs\Sistem Pencatatan Pengeluaran Kas atas Pengadaan Proyek\aplikasi\views\backend\index.php 793
+ERROR - 23-04-2019 13:15:04 --> Severity: Warning --> include(): Failed opening 'modul/proposal/index.php' for inclusion (include_path='D:\Server5\php\PEAR') D:\Server5\htdocs\Sistem Pencatatan Pengeluaran Kas atas Pengadaan Proyek\aplikasi\views\backend\index.php 793
+ERROR - 23-04-2019 13:17:38 --> Severity: Error --> Call to undefined method Model::getProposal() D:\Server5\htdocs\Sistem Pencatatan Pengeluaran Kas atas Pengadaan Proyek\aplikasi\helpers\hafiz_helper.php 237
+ERROR - 23-04-2019 13:22:25 --> Severity: Error --> Call to undefined method Model::getProposal() D:\Server5\htdocs\Sistem Pencatatan Pengeluaran Kas atas Pengadaan Proyek\aplikasi\helpers\hafiz_helper.php 237
+ERROR - 23-04-2019 08:22:25 --> 404 Page Not Found: Backend/getPenomoran
+ERROR - 23-04-2019 08:22:36 --> 404 Page Not Found: Static/assets
+ERROR - 23-04-2019 08:22:36 --> 404 Page Not Found: Static/assets
+ERROR - 23-04-2019 08:22:36 --> 404 Page Not Found: Static/bower_components
+ERROR - 23-04-2019 08:22:36 --> 404 Page Not Found: Static/bower_components
+ERROR - 23-04-2019 08:22:36 --> 404 Page Not Found: Static/bower_components
+ERROR - 23-04-2019 08:22:40 --> 404 Page Not Found: Static/assets
+ERROR - 23-04-2019 08:22:40 --> 404 Page Not Found: Static/bower_components
+ERROR - 23-04-2019 08:22:41 --> 404 Page Not Found: Static/bower_components
+ERROR - 23-04-2019 08:22:41 --> 404 Page Not Found: Static/assets
+ERROR - 23-04-2019 08:22:42 --> 404 Page Not Found: Static/bower_components
+ERROR - 23-04-2019 08:22:42 --> 404 Page Not Found: Backend/getPenomoran
+ERROR - 23-04-2019 13:22:42 --> Severity: Error --> Call to undefined method Model::getProposal() D:\Server5\htdocs\Sistem Pencatatan Pengeluaran Kas atas Pengadaan Proyek\aplikasi\helpers\hafiz_helper.php 237
+ERROR - 23-04-2019 08:23:22 --> 404 Page Not Found: Static/bower_components
+ERROR - 23-04-2019 08:23:22 --> 404 Page Not Found: Static/assets
+ERROR - 23-04-2019 08:23:23 --> 404 Page Not Found: Static/bower_components
+ERROR - 23-04-2019 08:23:23 --> 404 Page Not Found: Static/assets
+ERROR - 23-04-2019 08:23:23 --> 404 Page Not Found: Static/bower_components
+ERROR - 23-04-2019 13:23:23 --> Severity: Error --> Call to undefined method Model::getProposal() D:\Server5\htdocs\Sistem Pencatatan Pengeluaran Kas atas Pengadaan Proyek\aplikasi\helpers\hafiz_helper.php 237
+ERROR - 23-04-2019 12:36:24 --> 404 Page Not Found: Backupdatabase/index

@@ -1,0 +1,6 @@
+ERROR - 06-05-2019 02:03:12 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ D:\Server5\htdocs\bsi\otak\database\drivers\mysqli\mysqli_driver.php 91
+ERROR - 06-05-2019 02:03:12 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ D:\Server5\htdocs\bsi\otak\database\drivers\mysqli\mysqli_driver.php 91
+ERROR - 06-05-2019 02:03:12 --> Unable to connect to the database
+ERROR - 06-05-2019 02:03:12 --> Unable to connect to the database

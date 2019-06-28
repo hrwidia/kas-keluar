@@ -1,0 +1,41 @@
+ERROR - 24-06-2019 21:22:15 --> Query error: Table 'kaskeluar_windu.karyawan' doesn't exist - Invalid query: SELECT username, email, nama FROM karyawan WHERE username='cici' or email='cici' or nama='cici' AND is_deleted IS NULL
+ERROR - 24-06-2019 16:23:07 --> 404 Page Not Found: Static/bower_components
+ERROR - 24-06-2019 16:23:07 --> 404 Page Not Found: Static/assets
+ERROR - 24-06-2019 16:23:07 --> 404 Page Not Found: Static/bower_components
+ERROR - 24-06-2019 16:23:07 --> 404 Page Not Found: Static/bower_components
+ERROR - 24-06-2019 21:23:11 --> Query error: Unknown column 'id_user' in 'field list' - Invalid query: INSERT INTO `riwayatlogin` (`last_login`, `os`, `ip_address`, `browser`, `version`, `id_user`) VALUES ('24-Jun-19 21:23:11', 'Windows 10', '::1', 'Chrome', '75.0.3770.100', '1')
+ERROR - 24-06-2019 16:23:47 --> 404 Page Not Found: Static/assets
+ERROR - 24-06-2019 16:23:47 --> 404 Page Not Found: Static/bower_components
+ERROR - 24-06-2019 16:23:47 --> 404 Page Not Found: Static/bower_components
+ERROR - 24-06-2019 16:23:47 --> 404 Page Not Found: Static/assets
+ERROR - 24-06-2019 16:23:47 --> 404 Page Not Found: Static/file
+ERROR - 24-06-2019 16:23:47 --> 404 Page Not Found: Static/assets
+ERROR - 24-06-2019 16:23:47 --> 404 Page Not Found: Static/assets
+ERROR - 24-06-2019 16:23:47 --> 404 Page Not Found: Static/assets
+ERROR - 24-06-2019 16:23:48 --> 404 Page Not Found: Static/bower_components
+ERROR - 24-06-2019 16:26:15 --> 404 Page Not Found: Static/file
+ERROR - 24-06-2019 16:26:15 --> 404 Page Not Found: Static/assets
+ERROR - 24-06-2019 16:26:15 --> 404 Page Not Found: Static/assets
+ERROR - 24-06-2019 16:26:15 --> 404 Page Not Found: Static/assets
+ERROR - 24-06-2019 16:26:15 --> 404 Page Not Found: Static/assets
+ERROR - 24-06-2019 16:41:47 --> 404 Page Not Found: Static/file
+ERROR - 24-06-2019 16:41:47 --> 404 Page Not Found: Static/assets
+ERROR - 24-06-2019 16:41:48 --> 404 Page Not Found: Static/assets
+ERROR - 24-06-2019 16:41:48 --> 404 Page Not Found: Static/assets
+ERROR - 24-06-2019 16:41:48 --> 404 Page Not Found: Static/assets
+ERROR - 24-06-2019 16:41:50 --> 404 Page Not Found: Static/assets
+ERROR - 24-06-2019 16:41:50 --> 404 Page Not Found: Static/file
+ERROR - 24-06-2019 16:41:50 --> 404 Page Not Found: Static/assets
+ERROR - 24-06-2019 16:41:50 --> 404 Page Not Found: Static/assets
+ERROR - 24-06-2019 16:42:48 --> 404 Page Not Found: Static/file
+ERROR - 24-06-2019 16:42:48 --> 404 Page Not Found: Static/assets
+ERROR - 24-06-2019 16:42:48 --> 404 Page Not Found: Static/assets
+ERROR - 24-06-2019 16:42:48 --> 404 Page Not Found: Static/assets
+ERROR - 24-06-2019 16:42:48 --> 404 Page Not Found: Static/assets
+ERROR - 24-06-2019 16:43:19 --> 404 Page Not Found: Static/assets
+ERROR - 24-06-2019 16:43:19 --> 404 Page Not Found: Static/file
+ERROR - 24-06-2019 16:43:19 --> 404 Page Not Found: Static/assets
+ERROR - 24-06-2019 16:43:19 --> 404 Page Not Found: Static/assets
+ERROR - 24-06-2019 16:43:19 --> 404 Page Not Found: Static/assets
+ERROR - 24-06-2019 16:43:19 --> 404 Page Not Found: Static/assets
+ERROR - 24-06-2019 22:01:52 --> Severity: 4096 --> Object of class stdClass could not be converted to string E:\Server\htdocs\windu\aplikasi\controllers\Backend.php 27
