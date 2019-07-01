@@ -18,18 +18,24 @@ class Admin extends CI_Controller{
 
  	function save_activity($aksi, $detail = null, $kategori){
  		$siapa = session('siapa');
+ 		$jabatan = session('jabatan');
  		$date = date('Y-m-d H:i:s');
  		if ($siapa) {
-	 		$data  = [
-	 			'nama' => $siapa,
-	 			// 'departement' => session('departement'),
-	 			'divisi' => session('divisi'),
-	 			'jabatan' => session('jabatan'),
-	 			'tanggal' => $date,
-	 			'kategori' => $kategori,
-	 			'log' => 'Berhasil '.$aksi.' '.$detail
-	 		];
-	 		$simpan = simpan('log', $data);
+ 			if ($jabatan !== "Admin") {
+ 				$responses = $this->responses(true, 500, 'Anda tidak diperbolehkan');
+ 				json($responses);
+ 			}else{
+		 		$data  = [
+		 			'nama' => $siapa,
+		 			// 'departement' => session('departement'),
+		 			'divisi' => session('divisi'),
+		 			'jabatan' => session('jabatan'),
+		 			'tanggal' => $date,
+		 			'kategori' => $kategori,
+		 			'log' => 'Berhasil '.$aksi.' '.$detail
+		 		];
+		 		$simpan = simpan('log', $data);	
+ 			}
  		}else{
  			$responses = $this->responses(false, 500, 'Session belum terdeteksi');
  			JSON($responses);
