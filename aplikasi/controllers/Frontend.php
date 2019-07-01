@@ -19,6 +19,9 @@ class Frontend extends SQL {
 			redirect('dashboard');
 	}
 	function index(){
+		$this->load->view('frontend/home');
+	}
+	function login(){
 		$this->load->view('frontend/index');
 	}
 	function next(){
@@ -41,7 +44,7 @@ class Frontend extends SQL {
 				$usernameAvailable = $checkUsername->num_rows();
 				if ($usernameAvailable) {
 					// maka check password
-					$validatePassword = query("SELECT  k.*, d.id as id_departement, d.departement, j.id as id_jabatan, j.jabatan FROM user k  INNER JOIN departement d ON k.id_departement = d.id INNER JOIN jabatan j ON k.id_jabatan = j.id WHERE k.username='$username' or k.email='$username' or k.nama='$username' AND k.katasandi='$password'");
+					$validatePassword = query("SELECT  k.*, d.id as id_divisi, d.divisi, j.id as id_jabatan, j.jabatan FROM user k  INNER JOIN divisi d ON k.id_divisi = d.id INNER JOIN jabatan j ON k.id_jabatan = j.id WHERE k.username='$username' or k.email='$username' or k.nama='$username' AND k.katasandi='$password'");
 					$dataFinal = $validatePassword->row();
 					// verifikasi password dengan function dari codeigniter. (password_verify) 
 					$verifyPasswordDefault = password_verify($password, $dataFinal->katasandi);
@@ -69,8 +72,8 @@ class Frontend extends SQL {
 		      				'email' => $dataFinal->email,
 		      				'telepon' => $dataFinal->telepon,
 		      				'file' => $dataFinal->file,
-		      				'id_departement' => $dataFinal->id_departement,
-		      				'departement' => $dataFinal->departement,
+		      				'id_divisi' => $dataFinal->id_divisi,
+		      				'divisi' => $dataFinal->divisi,
 		      				'id_jabatan' => $dataFinal->id_jabatan,
 		      				'jabatan' => $dataFinal->jabatan,
 		      				'user_id' => $dataFinal->id

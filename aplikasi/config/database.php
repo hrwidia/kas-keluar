@@ -9,7 +9,7 @@ if ($type === "local") {
 	$hostname = "localhost";
 	$username = "root";
 	$password = "";
-	$database = "";
+	$database = "kaskeluar_windu";
 }else{
 	// ini kondisi ketika website sudah dihosting
 	// maka diatas isi dengan live atau bukan local

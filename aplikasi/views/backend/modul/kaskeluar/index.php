@@ -6,7 +6,7 @@
                     <div class="card">
                         <div class="card-header">
                             <h5>Data Kas Keluar
-                            <button href="#modalAkun" data-toggle="modal" class="btn waves-effect waves-light btn-grd-primary" onclick="ClearFormData('#formKasKeluar'), getNomorKas(), getDataAkunKas(), getDataUser(), getDataAkunDebet()">Tambah Data</button></h5>
+                            <button href="#modalAkun" data-toggle="modal" class="btn waves-effect waves-light btn-grd-primary" onclick="ClearFormData('#formKasKeluar'), getNomorKas(), getDataAkunKas(), getDataKaryawan(), getDataAkunDebet()">Tambah Data</button></h5>
                         </div>
                         <div class="card-block">
                             <table id="tableKasKeluar" class="table">
@@ -15,7 +15,7 @@
                                         <th>#</th>
                                         <th>No. Kas</th>
                                         <th>Tanggal</th>
-                                        <th>User</th>
+                                        <th>Karyawan</th>
                                         <th>Memo</th>
                                         <th>Akun</th>
                                         <th>Nominal</th>
@@ -28,7 +28,7 @@
                                         <th>#</th>
                                         <th>No. Kas</th>
                                         <th>Tanggal</th>
-                                        <th>User</th>
+                                        <th>Karyawan</th>
                                         <th>Memo</th>
                                         <th>Akun</th>
                                         <th>Nominal</th>
@@ -65,9 +65,9 @@
                                                 </div>
                                             </div>
                                             <div class="form-group row"> 
-                                                <label class="col-sm-2 col-form-label"> User* </label>
+                                                <label class="col-sm-2 col-form-label"> Karyawan* </label>
                                                 <div class="col-sm-10"> 
-                                                  <select id="data-user" name="user" required="on" class="form-control form-control-round">
+                                                  <select id="data-karyawan" name="karyawan" required="on" class="form-control form-control-round">
                                                   </select>
                                                 </div>
                                             </div>
@@ -159,11 +159,11 @@
             }
         });
     }
-    function getDataUser(){
+    function getDataKaryawan(){
         var url, secure;
-            url = "<?php safeURL(site_url('backend/getDataUser')) ?>";
+            url = "<?php safeURL(site_url('backend/getDataKaryawan')) ?>";
             secure  = readURL(url);
-            $("#data-user").empty('');
+            $("#data-karyawan").empty('');
             $.ajax({
                 url: secure,
                 type: 'POST',
@@ -171,7 +171,7 @@
                 success: function(data){
                     if (data) {
                         $.each(data, function(z, data) {
-                            $("#data-user").append("<option value="+data.id+">"+data.nama+"</option>");
+                            $("#data-karyawan").append("<option value="+data.id+">"+data.nama+"</option>");
                         });
                     }
                 }
@@ -208,7 +208,7 @@
                 $.post(safe, data).done(function(data){
                     if (data.status == true) {
                         editTitleModal("modalJurnal", "Tambah Kas");
-                        getNomorKas(), getDataAkunKas(), getDataUser(), getDataAkunDebet();
+                        getNomorKas(), getDataAkunKas(), getDataKaryawan(), getDataAkunDebet();
                         notif('Pemberitahuan', 'success', data.msg);
                         ReloadTable(tableKasKeluar);
                         ClearFormData("#formKasKeluar");
@@ -243,10 +243,10 @@
                         $("#id").val(data.id);
                         $("#data-akun-kas").val(data.Akunn);
                         $("#nomor").val(data.nomor);
-                        $("#data-user").val(data.user);
+                        $("#data-karyawan").val(data.user);
                         $("#memo").text(data.memo);
                         $("#nominal").val(data.nominal);
-                        getDataUser();
+                        getDataKaryawan();
                         getDataAkunDebet();
                         getDataAkunKas();
                         form.prop('disabled', false);

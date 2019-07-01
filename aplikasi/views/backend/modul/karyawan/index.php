@@ -15,6 +15,10 @@
                                         <th>#</th>
                                         <th>NIK</th>
                                         <th>Nama</th>
+                                        <th>Divisi</th>
+                                        <th>Jenis Kelamin</th>
+                                        <th>Tanggal Lahir</th>
+                                        <th>Alamat</th>
                                         <th>Telepon</th>
                                         <th>Opsi</th>
                                     </tr>
@@ -25,6 +29,10 @@
                                         <th>#</th>
                                         <th>NIK</th>
                                         <th>Nama</th>
+                                        <th>Divisi</th>
+                                        <th>Jenis Kelamin</th>
+                                        <th>Tanggal Lahir</th>
+                                        <th>Alamat</th>
                                         <th>Telepon</th>
                                         <th>Opsi</th>
                                     </tr>
@@ -57,6 +65,37 @@
                                                 <label class="col-sm-2 col-form-label"> Nama*</label>
                                                 <div class="col-sm-10"> 
                                                     <input type="text" name="nama" id="nama" class="form-control form-control-round" placeholder="Masukan data nama" autocomplete="off" autosave="off" required="on" pattern="[a-zA-Z\s]{0,20}" title="Hanya diperbolehkan huruf" maxlength="20" minlength="3">
+                                                </div>
+                                            </div>
+                                            <div class="form-group row"> 
+                                                <label class="col-sm-2 col-form-label"> Divisi* </label>
+                                                <div class="col-sm-10"> 
+                                                  <select id="data-divisi" name="divisi" required="on" class="form-control form-control-round">
+                                                      <option value="">--Pilih Divisi--</option>
+                                                      <option value="Bagian Keuangan">Bagian Keuangan</option>
+                                                      <option value="Bagian Administrasi">Bagian Administrasi</option>
+                                                  </select>
+                                                </div>
+                                            </div>
+                                            <div class="form-group row">
+                                                <label class="col-sm-2 col-form-label">Jenis Kelamin*</label>
+                                                <div class="col-sm-10">
+                                                    <select id="jk" name="jk" class="form-control form-control-round" required="on">
+                                                        <option value="1">Laki-laki</option>
+                                                        <option value="2">Perempuan</option>
+                                                    </select>
+                                                </div>
+                                            </div>
+                                            <div class="form-group row">
+                                                <label class="col-sm-2 col-form-label">Tanggal Lahir*</label>
+                                                <div class="col-sm-10">
+                                                    <input type="date" name="tgl_lahir" id="tgl_lahir" class="form-control form-control-round" required="on" max="<?php echo date('Y-m-d') ?>" />
+                                                </div>
+                                            </div>
+                                            <div class="form-group row">
+                                                <label class="col-sm-2 col-form-label">Alamat*</label>
+                                                <div class="col-sm-10">
+                                                    <textarea id="alamat" name="alamat" class="form-control form-control-round" required="on" rows="10" placeholder="......Masukan alamat"></textarea>
                                                 </div>
                                             </div>
                                             <div class="form-group row"> 
@@ -146,18 +185,22 @@
             safe = readURL(url);
             id = $(this).data('id');
             attrRequiredIsRemove.prop('required', false);
-            attrRequiredIsRemove.prop('disabled', true)
+            attrRequiredIsRemove.prop('disabled', true);
         $.ajax({
                 url:safe,
                 data:{ id: id },
                 dataType:'json',
                 type:'post',
                 success: function(data){
+                    attrRequiredIsRemove.prop('disabled', false);
                     if (data) {
                         $("#id").val(data.id);
                         $("#nama").val(data.nama);
+                        $("#divisi").val(data.divisi);
                         $("#telepon").val(data.telepon);
-                        $("#email").val(data.email);
+                        $("#tgl_lahir").val(data.tgl_lahir);
+                        $("#alamat").text(data.alamat);
+                        $("#jk").val(data.jk);
                     }else{
                         console.log("500 | getKaryawanById false");
                         attrRequiredIsRemove.prop('disabled', false);

@@ -23,7 +23,7 @@ class SQL extends CI_Controller{
  		if ($siapa) {
 	 		$data  = [
 	 			'nama' => $siapa,
-	 			'departement' => session('departement'),
+	 			// 'departement' => session('departement'),
 	 			'jabatan' => session('jabatan'),	
 	 			'tanggal' => $date,
 	 			'kategori' => $kategori,

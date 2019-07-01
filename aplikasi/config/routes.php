@@ -3,6 +3,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	
 $route = [
 	'default_controller' => 'Frontend',
+	'login' => 'Frontend/login',
 	'newpassword/(:any)' => 'Frontend/newpassword/$1',
 	'404_override' => '',
 	'dashboard' => 'Backend',

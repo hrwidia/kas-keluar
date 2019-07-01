@@ -14,7 +14,7 @@
                                     <tr>
                                         <th>#</th>
                                         <th>Nama</th>
-                                        <th>Departement</th>
+                                        <th>Divisi</th>
                                         <th>Jabatan</th>
                                         <th>Email</th>
                                         <th>Telepon</th>
@@ -26,7 +26,7 @@
                                     <tr>
                                         <th>#</th>
                                         <th>Nama</th>
-                                        <th>Departement</th>
+                                        <th>Divisi</th>
                                         <th>Jabatan</th>
                                         <th>Email</th>
                                         <th>Telepon</th>
@@ -61,19 +61,26 @@
                                                 </div>
                                             </div>
                                             <div class="form-group row"> 
-                                                <label class="col-sm-2 col-form-label"> Departement* </label>
+                                                <label class="col-sm-2 col-form-label"> Divisi* </label>
                                                 <div class="col-sm-10"> 
-                                                  <select id="data-departement" name="departement" required="on" class="form-control form-control-round">
-                                                      <option value="">--Pilih Departmenent--</option>
-                                                      <option value="">Bagian Keuangan</option>
-                                                      <option value="">Bagian Administrasi</option>
+                                                  <select id="data-divisi" name="divisi" required="on" class="form-control form-control-round">
+                                                      <option value="">--Pilih Divisi--</option>
+                                                      <option value="Bagian Keuangan">Bagian Keuangan</option>
+                                                      <option value="Bagian Administrasi">Bagian Administrasi</option>
                                                   </select>
                                                 </div>
                                             </div>
                                             <div class="form-group row"> 
                                                 <label class="col-sm-2 col-form-label"> Jabatan* </label>
                                                 <div class="col-sm-10"> 
-                                                    <textarea id="data-jabatan" name="jabatan" class="form-control form-control-round" required="on" placeholder="Enter your position"></textarea>
+                                                    <select id="data-jabatan" name="jabatan" required="on" class="form-control form-control-round">
+                                                      <option value="">--Pilih Jabatan--</option>
+                                                      <option value="Staff HRD">Staff HRD</option>
+                                                      <option value="Admin">Admin</option>
+                                                      <option value="Pengawas">Pengawas</option>
+                                                      <option value="Supervisior">Supervisior</option>
+                                                  </select>
+                                                    <!-- <textarea id="data-jabatan" name="jabatan" class="form-control form-control-round" required="on" placeholder="Enter your position"></textarea> -->
                                                 </div>
                                             </div>
                                             <div class="form-group row"> 

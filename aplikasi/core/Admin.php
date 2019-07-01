@@ -22,7 +22,7 @@ class Admin extends CI_Controller{
  		if ($siapa) {
 	 		$data  = [
 	 			'nama' => $siapa,
-	 			'departement' => session('departement'),
+	 			// 'departement' => session('departement'),
 	 			'divisi' => session('divisi'),
 	 			'jabatan' => session('jabatan'),
 	 			'tanggal' => $date,

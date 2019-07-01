@@ -1,0 +1,46 @@
+ERROR - 29-06-2019 08:32:01 --> Query error: No database selected - Invalid query: SELECT `data`
+FROM `_sessions`
+WHERE `id` = 'eainb97ckdakom26kj0c77grbgfn4unr'
+AND `ip_address` = '::1'
+ERROR - 29-06-2019 08:32:01 --> Severity: Warning --> session_write_close(): Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 29-06-2019 08:32:01 --> Severity: Warning --> session_write_close(): Failed to write session data using user defined save handler. (session.save_path: E:\Server\tmp) Unknown 0
+ERROR - 29-06-2019 08:32:04 --> Query error: No database selected - Invalid query: SELECT `data`
+FROM `_sessions`
+WHERE `id` = 'eainb97ckdakom26kj0c77grbgfn4unr'
+AND `ip_address` = '::1'
+ERROR - 29-06-2019 08:32:04 --> Severity: Warning --> session_write_close(): Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 29-06-2019 08:32:04 --> Severity: Warning --> session_write_close(): Failed to write session data using user defined save handler. (session.save_path: E:\Server\tmp) Unknown 0
+ERROR - 29-06-2019 11:36:05 --> Query error: No database selected - Invalid query: SELECT `data`
+FROM `_sessions`
+WHERE `id` = '1l1h2sm3vu488r049plf6vuk63qai5og'
+AND `ip_address` = '::1'
+ERROR - 29-06-2019 11:36:05 --> Severity: Warning --> session_write_close(): Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 29-06-2019 11:36:05 --> Severity: Warning --> session_write_close(): Failed to write session data using user defined save handler. (session.save_path: E:\Server\tmp) Unknown 0
+ERROR - 29-06-2019 11:36:35 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE `id` = '1l1h2sm3vu488r049plf6vuk63qai5og'
+AND `ip_address` = '::1'' at line 2 - Invalid query: SELECT `data`
+WHERE `id` = '1l1h2sm3vu488r049plf6vuk63qai5og'
+AND `ip_address` = '::1'
+ERROR - 29-06-2019 11:36:35 --> Severity: Warning --> session_write_close(): Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 29-06-2019 11:36:35 --> Severity: Warning --> session_write_close(): Failed to write session data using user defined save handler. (session.save_path: E:\Server\tmp) Unknown 0
+ERROR - 29-06-2019 11:36:36 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE `id` = '1l1h2sm3vu488r049plf6vuk63qai5og'
+AND `ip_address` = '::1'' at line 2 - Invalid query: SELECT `data`
+WHERE `id` = '1l1h2sm3vu488r049plf6vuk63qai5og'
+AND `ip_address` = '::1'
+ERROR - 29-06-2019 11:36:36 --> Severity: Warning --> session_write_close(): Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 29-06-2019 11:36:36 --> Severity: Warning --> session_write_close(): Failed to write session data using user defined save handler. (session.save_path: E:\Server\tmp) Unknown 0
+ERROR - 29-06-2019 11:37:06 --> 404 Page Not Found: Static/file
+ERROR - 29-06-2019 11:37:06 --> 404 Page Not Found: Static/assets
+ERROR - 29-06-2019 11:37:06 --> 404 Page Not Found: Static/assets
+ERROR - 29-06-2019 11:37:06 --> 404 Page Not Found: Static/assets
+ERROR - 29-06-2019 11:37:06 --> 404 Page Not Found: Static/assets
+ERROR - 29-06-2019 11:37:40 --> 404 Page Not Found: Static/file
+ERROR - 29-06-2019 11:37:40 --> 404 Page Not Found: Static/assets
+ERROR - 29-06-2019 11:37:41 --> 404 Page Not Found: Static/assets
+ERROR - 29-06-2019 11:37:41 --> 404 Page Not Found: Static/assets
+ERROR - 29-06-2019 11:37:41 --> 404 Page Not Found: Static/assets
+ERROR - 29-06-2019 11:37:41 --> 404 Page Not Found: Static/assets
+ERROR - 29-06-2019 11:37:47 --> 404 Page Not Found: Static/assets
+ERROR - 29-06-2019 11:37:47 --> 404 Page Not Found: Static/file
+ERROR - 29-06-2019 11:37:47 --> 404 Page Not Found: Static/assets
+ERROR - 29-06-2019 11:37:47 --> 404 Page Not Found: Static/assets
+ERROR - 29-06-2019 11:37:47 --> 404 Page Not Found: Static/assets

@@ -270,8 +270,13 @@ class Backend extends Admin {
 	}
 	function updateKaryawan(){
 		$data = [
+			'nik' => post('nik'),
 			'nama' => post('nama'),
-			'telepon' => post("telepon")
+			'divisi' => post('divisi'),
+			'telepon' => post("telepon"),
+			'alamat'  => post('alamat'),
+			'jk'      => post('jk'),
+			'tgl_lahir' => post('tgl_lahir')
 		];
 		$update = $this->update(post('id'), $data, 'karyawan');
 		if ($update && (!empty($_FILES['file']['name']))) {
@@ -283,7 +288,11 @@ class Backend extends Admin {
 		$data = [
 			'nik' => post('nik'),
 			'nama' => post('nama'),
-			'telepon' => post("telepon")
+			'divisi' => post('divisi'),
+			'telepon' => post("telepon"),
+			'alamat'  => post('alamat'),
+			'jk'      => post('jk'),
+			'tgl_lahir' => post('tgl_lahir')
 		];
 		$this->simpan($data, 'karyawan');
 		// $simpan = $this->db->insert('karyawan', $data);
@@ -415,9 +424,9 @@ class Backend extends Admin {
 		}
 		json($nextkode);
 	}
-	function getDataUser(){
+	function getDataKaryawan(){
 		isajax();
-		$sql = query("SELECT id, nama, email FROM user WHERE is_deleted IS NULL");
+		$sql = query("SELECT id, nama FROM karyawan WHERE is_deleted IS NULL");
 		if ($sql->num_rows() > 0) {
 			$response = $sql->result();
 		}else{
@@ -479,7 +488,7 @@ class Backend extends Admin {
 	function simpanKasKeluar(){
 		isajax();
 		$data = [
-			'id_user' => post('user'),
+			'id_karyawan' => post('karyawan'),
 			'nomor' => post('nomor'),
 			'tanggal' => date('d-m-Y h:i:s'),
 			'memo' => post('memo')

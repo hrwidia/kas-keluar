@@ -30,6 +30,7 @@
                                         <th>Kas</th>
                                         <th>User</th>
                                         <th>Akun</th>
+                                        <th>Tanggal</th>
                                         <th>Debet</th>
                                         <th>Kredit</th>
                                         <th>Total</th>
@@ -46,6 +47,7 @@
                                         <th>Kas</th>
                                         <th>User</th>
                                         <th>Akun</th>
+                                        <th>Tanggal</th>
                                         <th>Debet</th>
                                         <th>Kredit</th>
                                         <th>Total</th>

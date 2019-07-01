@@ -88,7 +88,7 @@ class Model extends CI_Model {
 	function getUser(){
 		isajax();
 		// check apakah sudah ada tanda tangan apa belum ?
-		$minta = query("SELECT k.*, d.departement, j.jabatan FROM user k INNER JOIN departement d ON k.id_departement = d.id INNER JOIN jabatan j ON k.id_jabatan = j.id WHERE k.is_deleted IS NULL");
+		$minta = query("SELECT k.*, d.divisi, j.jabatan FROM user k INNER JOIN divisi d ON k.id_divisi = d.id INNER JOIN jabatan j ON k.id_jabatan = j.id WHERE k.is_deleted IS NULL");
 
 		$hasil = $minta->result();
 		$no = 0;
@@ -109,7 +109,7 @@ class Model extends CI_Model {
 	 				$result['data'][$key] = array(
 						$no,
 						$value->nama,
-						$value->departement,
+						$value->divisi,
 						$value->jabatan,
 						$value->email,
 						$value->telepon,
@@ -128,6 +128,12 @@ class Model extends CI_Model {
 		foreach ($data as $key => $value) { 
 			$no++;	
 			$id = $value->id;
+			$jk = $value->jk;
+			if ($jk == "1") {
+				$jk = 'Laki-laki';
+			}else{
+				$jk = 'Perempuan';
+			}
 			$opsi = "<div id='opsi' style='cursor: pointer;'>
 						<center>
 							<a href='javascript:void(0)' class='edit' data-id='$id' id='edit-karyawan' data-toggle='tooltip' title='Klik untuk mengedit data'><i class='far fa-edit' aria-hidden='true' onclick='ClearFormData('#formKaryawan')'></i></a>
@@ -138,6 +144,10 @@ class Model extends CI_Model {
 						$no,
 						$value->nik,
 						$value->nama,
+						$value->divisi,
+						$jk,
+						$value->tgl_lahir,
+						$value->alamat,
 						$value->telepon,
 						$opsi
 				);
@@ -174,7 +184,7 @@ class Model extends CI_Model {
 	}
 	function getKasKeluar(){
 		isajax();
-		$minta = query("SELECT k.*, d.id_kaskeluar, d.id_akun, d.nominal as nominaldetail, y.nama as user, a.nama as akun FROM kaskeluar k INNER JOIN detail_kaskeluar d ON d.id_kaskeluar = k.id INNER JOIN user y ON k.id_user = y.id INNER JOIN  akun a ON d.id_akun = a.id WHERE k.is_deleted IS NULL");
+		$minta = query("SELECT k.*, d.id_kaskeluar, d.id_akun, d.nominal as nominaldetail, y.nama as user, a.nama as akun FROM kaskeluar k INNER JOIN detail_kaskeluar d ON d.id_kaskeluar = k.id INNER JOIN karyawan y ON k.id_karyawan = y.id INNER JOIN  akun a ON d.id_akun = a.id WHERE k.is_deleted IS NULL");
 		$hasil = $minta->result();
 		$no = 0;
 		$result = ['data' => []];
@@ -276,6 +286,7 @@ class Model extends CI_Model {
 						$value->nomorkaskeluar,
 						$value->user,
 						$value->akun,
+						$value->tanggal_jurnal,
 						$debet,
 						$kredit,
 						$total,
