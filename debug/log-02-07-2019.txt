@@ -133,3 +133,191 @@ ERROR - 02-07-2019 17:43:56 --> 404 Page Not Found: Static/assets
 ERROR - 02-07-2019 17:43:56 --> 404 Page Not Found: Static/assets
 ERROR - 02-07-2019 17:43:56 --> 404 Page Not Found: Static/assets
 ERROR - 02-07-2019 17:43:56 --> 404 Page Not Found: Static/assets
+ERROR - 02-07-2019 17:51:16 --> 404 Page Not Found: Static/assets
+ERROR - 02-07-2019 17:51:16 --> 404 Page Not Found: Static/assets
+ERROR - 02-07-2019 17:51:16 --> 404 Page Not Found: Static/assets
+ERROR - 02-07-2019 17:51:16 --> 404 Page Not Found: Static/assets
+ERROR - 02-07-2019 17:51:16 --> 404 Page Not Found: Static/assets
+ERROR - 02-07-2019 22:51:18 --> Query error: Unknown column 'kk.id_user' in 'field list' - Invalid query: SELECT 
+
+					kk.id as id_kaskeluar, 
+					kk.id_user,
+					kk.nomor as nomorkaskeluar,
+					kk.tanggal,
+					kk.memo as memo,
+					k.nama as user,
+					dks.id as id_detailkaskeluar,
+					dks.id_akun,
+					dks.nominal,
+					a.id as id_akun,
+					a.kode as kode_akun,
+					a.nama as akun,
+					a.jenis,
+					a.saldo,
+					j.id as id_jurnal,
+					j.nomor_referensi as nomor_jurnal,
+					j.tanggal as tanggal_jurnal,
+					j.keterangan as keterangan_jurnal,
+					jd.id as id_jurnal_detail,
+					jd.debet as debet_jurnal_detail,
+					jd.kredit as kredit_jurnal_detail
+
+					FROM kaskeluar kk
+					INNER JOIN user k ON kk.id_user = k.id
+					INNER JOIN detail_kaskeluar dks ON dks.id_kaskeluar = kk.id
+					INNER JOIN akun a ON dks.id_akun = a.id
+					LEFT JOIN jurnal j ON j.id_kaskeluar = kk.id
+					LEFT JOIN jurnal_detail jd ON jd.id_jurnal = j.id
+
+					WHERE kk.is_deleted IS NULL AND 
+					dks.is_deleted IS NULL AND
+					a.is_deleted IS NULL AND
+					j.is_deleted IS NULL
+ERROR - 02-07-2019 17:51:23 --> 404 Page Not Found: Static/assets
+ERROR - 02-07-2019 17:51:23 --> 404 Page Not Found: Static/bower_components
+ERROR - 02-07-2019 17:51:23 --> 404 Page Not Found: Static/bower_components
+ERROR - 02-07-2019 17:51:23 --> 404 Page Not Found: Static/assets
+ERROR - 02-07-2019 17:51:23 --> 404 Page Not Found: Static/bower_components
+ERROR - 02-07-2019 17:51:24 --> 404 Page Not Found: Static/assets
+ERROR - 02-07-2019 17:51:25 --> 404 Page Not Found: Static/assets
+ERROR - 02-07-2019 17:51:26 --> 404 Page Not Found: Static/bower_components
+ERROR - 02-07-2019 17:51:27 --> 404 Page Not Found: Static/assets
+ERROR - 02-07-2019 17:51:27 --> 404 Page Not Found: Static/assets
+ERROR - 02-07-2019 17:51:27 --> 404 Page Not Found: Static/assets
+ERROR - 02-07-2019 17:51:27 --> 404 Page Not Found: Static/bower_components
+ERROR - 02-07-2019 17:51:27 --> 404 Page Not Found: Static/bower_components
+ERROR - 02-07-2019 17:51:27 --> 404 Page Not Found: Static/assets
+ERROR - 02-07-2019 22:51:28 --> Query error: Unknown column 'kk.id_user' in 'field list' - Invalid query: SELECT 
+
+					kk.id as id_kaskeluar, 
+					kk.id_user,
+					kk.nomor as nomorkaskeluar,
+					kk.tanggal,
+					kk.memo as memo,
+					k.nama as user,
+					dks.id as id_detailkaskeluar,
+					dks.id_akun,
+					dks.nominal,
+					a.id as id_akun,
+					a.kode as kode_akun,
+					a.nama as akun,
+					a.jenis,
+					a.saldo,
+					j.id as id_jurnal,
+					j.nomor_referensi as nomor_jurnal,
+					j.tanggal as tanggal_jurnal,
+					j.keterangan as keterangan_jurnal,
+					jd.id as id_jurnal_detail,
+					jd.debet as debet_jurnal_detail,
+					jd.kredit as kredit_jurnal_detail
+
+					FROM kaskeluar kk
+					INNER JOIN user k ON kk.id_user = k.id
+					INNER JOIN detail_kaskeluar dks ON dks.id_kaskeluar = kk.id
+					INNER JOIN akun a ON dks.id_akun = a.id
+					LEFT JOIN jurnal j ON j.id_kaskeluar = kk.id
+					LEFT JOIN jurnal_detail jd ON jd.id_jurnal = j.id
+
+					WHERE kk.is_deleted IS NULL AND 
+					dks.is_deleted IS NULL AND
+					a.is_deleted IS NULL AND
+					j.is_deleted IS NULL
+ERROR - 02-07-2019 17:56:08 --> 404 Page Not Found: Static/assets
+ERROR - 02-07-2019 17:56:08 --> 404 Page Not Found: Static/assets
+ERROR - 02-07-2019 17:56:08 --> 404 Page Not Found: Static/assets
+ERROR - 02-07-2019 17:56:09 --> 404 Page Not Found: Static/assets
+ERROR - 02-07-2019 17:56:09 --> 404 Page Not Found: Static/bower_components
+ERROR - 02-07-2019 17:56:09 --> 404 Page Not Found: Static/assets
+ERROR - 02-07-2019 17:56:09 --> 404 Page Not Found: Static/assets
+ERROR - 02-07-2019 17:56:09 --> 404 Page Not Found: Static/assets
+ERROR - 02-07-2019 17:56:09 --> 404 Page Not Found: Static/bower_components
+ERROR - 02-07-2019 17:56:09 --> 404 Page Not Found: Static/bower_components
+ERROR - 02-07-2019 22:56:10 --> Query error: Unknown column 'kk.id_user' in 'on clause' - Invalid query: SELECT 
+
+					kk.id as id_kaskeluar, 
+					kk.id_karyawan,
+					kk.nomor as nomorkaskeluar,
+					kk.tanggal,
+					kk.memo as memo,
+					k.nama as user,
+					dks.id as id_detailkaskeluar,
+					dks.id_akun,
+					dks.nominal,
+					a.id as id_akun,
+					a.kode as kode_akun,
+					a.nama as akun,
+					a.jenis,
+					a.saldo,
+					j.id as id_jurnal,
+					j.nomor_referensi as nomor_jurnal,
+					j.tanggal as tanggal_jurnal,
+					j.keterangan as keterangan_jurnal,
+					jd.id as id_jurnal_detail,
+					jd.debet as debet_jurnal_detail,
+					jd.kredit as kredit_jurnal_detail
+
+					FROM kaskeluar kk
+					INNER JOIN user k ON kk.id_user = k.id
+					INNER JOIN detail_kaskeluar dks ON dks.id_kaskeluar = kk.id
+					INNER JOIN akun a ON dks.id_akun = a.id
+					LEFT JOIN jurnal j ON j.id_kaskeluar = kk.id
+					LEFT JOIN jurnal_detail jd ON jd.id_jurnal = j.id
+
+					WHERE kk.is_deleted IS NULL AND 
+					dks.is_deleted IS NULL AND
+					a.is_deleted IS NULL AND
+					j.is_deleted IS NULL
+ERROR - 02-07-2019 17:56:36 --> 404 Page Not Found: Static/assets
+ERROR - 02-07-2019 17:56:36 --> 404 Page Not Found: Static/assets
+ERROR - 02-07-2019 17:56:36 --> 404 Page Not Found: Static/assets
+ERROR - 02-07-2019 17:56:36 --> 404 Page Not Found: Static/assets
+ERROR - 02-07-2019 17:56:37 --> 404 Page Not Found: Static/assets
+ERROR - 02-07-2019 17:56:37 --> 404 Page Not Found: Static/assets
+ERROR - 02-07-2019 17:56:37 --> 404 Page Not Found: Static/bower_components
+ERROR - 02-07-2019 17:56:39 --> 404 Page Not Found: Static/bower_components
+ERROR - 02-07-2019 17:56:39 --> 404 Page Not Found: Static/bower_components
+ERROR - 02-07-2019 17:56:39 --> 404 Page Not Found: Static/assets
+ERROR - 02-07-2019 22:56:40 --> Query error: Unknown column 'kk.id_user' in 'on clause' - Invalid query: SELECT 
+
+					kk.id as id_kaskeluar, 
+					kk.id_karyawan,
+					kk.nomor as nomorkaskeluar,
+					kk.tanggal,
+					kk.memo as memo,
+					k.nama as user,
+					dks.id as id_detailkaskeluar,
+					dks.id_akun,
+					dks.nominal,
+					a.id as id_akun,
+					a.kode as kode_akun,
+					a.nama as akun,
+					a.jenis,
+					a.saldo,
+					j.id as id_jurnal,
+					j.nomor_referensi as nomor_jurnal,
+					j.tanggal as tanggal_jurnal,
+					j.keterangan as keterangan_jurnal,
+					jd.id as id_jurnal_detail,
+					jd.debet as debet_jurnal_detail,
+					jd.kredit as kredit_jurnal_detail
+
+					FROM kaskeluar kk
+					INNER JOIN user k ON kk.id_user = k.id
+					INNER JOIN detail_kaskeluar dks ON dks.id_kaskeluar = kk.id
+					INNER JOIN akun a ON dks.id_akun = a.id
+					LEFT JOIN jurnal j ON j.id_kaskeluar = kk.id
+					LEFT JOIN jurnal_detail jd ON jd.id_jurnal = j.id
+
+					WHERE kk.is_deleted IS NULL AND 
+					dks.is_deleted IS NULL AND
+					a.is_deleted IS NULL AND
+					j.is_deleted IS NULL
+ERROR - 02-07-2019 17:57:23 --> 404 Page Not Found: Static/assets
+ERROR - 02-07-2019 17:57:24 --> 404 Page Not Found: Static/assets
+ERROR - 02-07-2019 17:57:24 --> 404 Page Not Found: Static/assets
+ERROR - 02-07-2019 17:57:24 --> 404 Page Not Found: Static/assets
+ERROR - 02-07-2019 17:57:24 --> 404 Page Not Found: Static/bower_components
+ERROR - 02-07-2019 17:57:24 --> 404 Page Not Found: Static/assets
+ERROR - 02-07-2019 17:57:27 --> 404 Page Not Found: Static/bower_components
+ERROR - 02-07-2019 17:57:27 --> 404 Page Not Found: Static/bower_components
+ERROR - 02-07-2019 17:57:27 --> 404 Page Not Found: Static/assets

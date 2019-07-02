@@ -226,7 +226,7 @@ class Model extends CI_Model {
 			"SELECT 
 
 					kk.id as id_kaskeluar, 
-					kk.id_user,
+					kk.id_karyawan,
 					kk.nomor as nomorkaskeluar,
 					kk.tanggal,
 					kk.memo as memo,
@@ -248,7 +248,7 @@ class Model extends CI_Model {
 					jd.kredit as kredit_jurnal_detail
 
 					FROM kaskeluar kk
-					INNER JOIN user k ON kk.id_user = k.id
+					INNER JOIN user k ON kk.id_karyawan = k.id
 					INNER JOIN detail_kaskeluar dks ON dks.id_kaskeluar = kk.id
 					INNER JOIN akun a ON dks.id_akun = a.id
 					LEFT JOIN jurnal j ON j.id_kaskeluar = kk.id
