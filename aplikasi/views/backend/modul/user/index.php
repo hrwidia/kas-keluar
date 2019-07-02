@@ -64,9 +64,7 @@
                                                 <label class="col-sm-2 col-form-label"> Divisi* </label>
                                                 <div class="col-sm-10"> 
                                                   <select id="data-divisi" name="divisi" required="on" class="form-control form-control-round">
-                                                      <option value="">--Pilih Divisi--</option>
-                                                      <option value="Bagian Keuangan">Bagian Keuangan</option>
-                                                      <option value="Bagian Administrasi">Bagian Administrasi</option>
+                                                      <option id="defaultvalueDataDivisi" value=""></option>
                                                   </select>
                                                 </div>
                                             </div>
@@ -74,13 +72,8 @@
                                                 <label class="col-sm-2 col-form-label"> Jabatan* </label>
                                                 <div class="col-sm-10"> 
                                                     <select id="data-jabatan" name="jabatan" required="on" class="form-control form-control-round">
-                                                      <option value="">--Pilih Jabatan--</option>
-                                                      <option value="Staff HRD">Staff HRD</option>
-                                                      <option value="Admin">Admin</option>
-                                                      <option value="Pengawas">Pengawas</option>
-                                                      <option value="Supervisior">Supervisior</option>
+                                                      <option id="defaultvalueDataJabatan" value="">--Pilih Jabatan--</option>
                                                   </select>
-                                                    <!-- <textarea id="data-jabatan" name="jabatan" class="form-control form-control-round" required="on" placeholder="Enter your position"></textarea> -->
                                                 </div>
                                             </div>
                                             <div class="form-group row"> 
@@ -126,9 +119,7 @@
 <script type="text/javascript">
     var tableUser, url, safe;
     $(document).ready(function() {
-        // getDepartementData(); 
-
-        // getJabatan();
+        getJabatan(); getDivisi();
         url = "<?php safeURL(site_url('backend/getUser')) ?>";
         safe = readURL(url);
         tableUser = $("#tableUser").DataTable({
@@ -259,5 +250,53 @@
                 });
             });
         });
-  
+     function getJabatan(){
+            var url, safe;
+                url = "<?php safeURL(site_url('backend/getJabatanData')) ?>";
+                safe = readURL(url);
+                $("#data-jabatan").html('');
+                $.ajax({
+                    url: safe,
+                    dataType: 'json',
+                    type: 'post',
+                    success: function(data){
+                        if (data) {
+                            $("#defaultvalueDataJabatan").text("Pilih Jabatan");
+                            $.each(data, function(z, data) {
+                                $("#data-jabatan").append("<option value="+data.id+">"+data.jabatan+"</option>");
+                            });
+                        }else{
+                            $("#defaultvalueDataJabatan").text("Pilih Data");
+                        }
+                    },
+                    error: function(){
+                        $("#defaultvalueDataJabatan").text("").text("Gagal Mengambil data");    
+                    }
+                });
+        }
+         function getDivisi(){
+            var url, safe;
+                url = "<?php safeURL(site_url('backend/getDivisiData')) ?>";
+                safe = readURL(url);
+                $("#data-jabatan").html('');
+                $.ajax({
+                    url: safe,
+                    dataType: 'json',
+                    type: 'post',
+                    success: function(data){
+                        if (data) {
+                            $("#defaultvalueDataDivisi").text("Pilih Divisi");
+                            $.each(data, function(z, data) {
+                                $("#data-divisi").append("<option value="+data.id+">"+data.divisi+"</option>");
+                            });
+                        }else{
+                            $("#defaultvalueDataJDivisi").text("Pilih Data");
+                        }
+                    },
+                    error: function(){
+                        $("#defaultvalueDatDivisin").text("").text("Gagal Mengambil data");    
+                    }
+                });
+        }
+
 </script>

@@ -187,9 +187,8 @@ class Backend extends Admin {
 		$data = query("SELECT id, nama, id_departement, id_divisi FROM user WHERE is_deleted IS NULL AND id_departement='$idDepartement' AND id_divisi='$idDivisi'");
 		JSON($data->result());
 	}
-	function getDivisiDataByIdDepartement(){
-		$idDepartement = post('idDepartement');
-		$data = query("SELECT i.*, d.departement FROM divisi i INNER JOIN departement d ON i.id_departement = d.id WHERE d.id='$idDepartement' AND i.is_deleted IS NULL");
+	function getDivisiData(){
+		$data = query("SELECT * FROM divisi WHERE is_deleted IS NULL");
 		JSON($data->result());
 	}
 	// ------------------------------------------------------------------------ end jabatan
@@ -241,12 +240,11 @@ class Backend extends Admin {
 		$data = [
 			'nama' => post('nama'),
 			'email' => post("email"),
-			'id_departement' => post('departement'),
+			'id_divisi' => post('divisi'),
 			'id_jabatan' => post("jabatan"),
 			'username' => post("username"),
 			'katasandi' => $hashPassword
 		];
-		
 		$simpan = $this->db->insert('user', $data);
 		$lastid = $this->db->insert_id();
 		if ($simpan) {

@@ -645,6 +645,16 @@
                                                   <span class="pcoded-mtext">Data Jabatan</span>
                                               </a>
                                           </li> -->
+                                           <li>
+                                              <a href="<?php echo site_url('divisi') ?>" class="waves-effect waves-dark">
+                                                  <span class="pcoded-mtext">Data Divisi</span>
+                                              </a>
+                                          </li>
+                                          <li>
+                                              <a href="<?php echo site_url('jabatan') ?>" class="waves-effect waves-dark">
+                                                  <span class="pcoded-mtext">Data Jabatan</span>
+                                              </a>
+                                          </li>
                                           <li>
                                               <a href="<?php echo site_url('user') ?>" class="waves-effect waves-dark">
                                                   <span class="pcoded-mtext">Data User</span>
