@@ -14,7 +14,6 @@
                                     <tr>
                                         <th>#</th>
                                         <th>Divisi</th>
-                                        <th>Departement</th>
                                         <th>Opsi</th>
                                     </tr>
                                 </thead>
@@ -23,7 +22,6 @@
                                     <tr>
                                         <th>#</th>
                                         <th>Divisi</th>
-                                        <th>Departement</th>
                                         <th>Opsi</th>
                                     </tr>
                                 </tfoot>
@@ -48,14 +46,6 @@
                                                     <input type="text" name="divisi" id="divisi" class="form-control form-control-round" placeholder="Masukan data divisi" autocomplete="off" autosave="off" required="on" pattern="[a-zA-Z\s]{0,20}" title="Hanya diperbolehkan huruf" maxlength="20" minlength="3">
                                                 </div>
                                             </div>
-                                            <div class="form-group row"> 
-                                                <label class="col-sm-2 col-form-label"> Departement*</label>
-                                                <div class="col-sm-10"> 
-                                                    <select id="data-departement" name="departement" required="on" class="form-control">
-                                                        <option id="defaultvalueDataDepartement"></option>
-                                                    </select>
-                                                </div>
-                                            </div>
                                             <br>
                                             <p><i>* Field Wajib diisi</i></p>
                                     </div>
@@ -75,7 +65,6 @@
 <script type="text/javascript">
     var tableDivisi, url, safe;
     $(document).ready(function() {
-        getDepartementData();
         url = "<?php safeURL(site_url('backend/getDivisi')) ?>";
         safe = readURL(url);
         tableDivisi = $("#tableDivisi").DataTable({
@@ -182,31 +171,4 @@
                 });
             });
         });
-    function getDepartementData(){
-        var url, safe;
-            url = "<?php safeURL(site_url('backend/getDepartementData')) ?>";
-            safe = readURL(url);
-            $("#defaultvalueDataDepartement").text("Sedang mengambil data...");
-            setTimeout(function(){
-                $.ajax({
-                    url:safe,
-                    dataType:'json',
-                    type:'post',
-                    crossDomain: true,
-                    success:function(data){
-                        if (data) {
-                            $("#defaultvalueDataDepartement").text("Untuk Departement").prop('disabled', true);
-                            $.each(data, function(z, data) {
-                                $("#data-departement").append("<option value="+data.id+">"+data.departement+"</option>");
-                            });
-                        }else{
-                            $("#defaultvalueDataDepartement").text("Pilih Data");
-                        }
-                    },
-                    error:function(){
-                        $("#defaultvalueDataDepartement").text("").text("Gagal Mengambil data");
-                    }
-                });
-            }, 600);
-        }
 </script>

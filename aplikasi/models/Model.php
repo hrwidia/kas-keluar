@@ -34,7 +34,7 @@ class Model extends CI_Model {
 	}
 	function getDivisi(){
 		isajax();
-		$minta = query("SELECT i.*, d.departement FROM divisi i INNER JOIN departement d ON i.id_departement = d.id WHERE i.is_deleted IS NULL");
+		$minta = query("SELECT * FROM divisi WHERE is_deleted IS NULL");
 		$hasil = $minta->result();
 		$no = 0;
 		$result = ['data' => []];
@@ -51,7 +51,6 @@ class Model extends CI_Model {
 	 				$result['data'][$key] = array(
 						$no,
 						$value->divisi,
-						$value->departement,
 						$opsi
 				);
 		}

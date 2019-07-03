@@ -114,16 +114,11 @@ class Backend extends Admin {
 		$data = [
 			'divisi' => post('divisi')
 		];
-		$departement = post('departement');
-		if ($departement != '') {
-			$data['id_departement'] = $departement;
-		}
 		$this->update(post('id'), $data, 'divisi');
 	}
 	function simpanDivisi(){
 		$data = [
-			'divisi' => post('divisi'),
-			'id_departement' => post('departement')
+			'divisi' => post('divisi')
 		];
 		$this->simpan($data, 'divisi');
 	}
@@ -535,7 +530,7 @@ class Backend extends Admin {
 	}
 	function getDataTransaksi(){
 		isajax();
-		$sql = query("SELECT k.*, w.nama as nama_user FROM kaskeluar k INNER JOIN user w ON k.id_user = w.id WHERE k.is_deleted IS NULL");
+		$sql = query("SELECT k.*, w.nama as nama_user FROM kaskeluar k INNER JOIN user w ON k.id_karyawan = w.id WHERE k.is_deleted IS NULL");
 		if ($sql->num_rows() > 0) {
 			json($sql->result());
 		}else{
